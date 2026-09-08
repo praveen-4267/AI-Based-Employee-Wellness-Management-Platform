@@ -1,7 +1,6 @@
-from src.ingestion import read_direct_text, read_txt_file, read_csv_file
+from src.ingestion import read_direct_text
 from src.preprocessing import preprocess_text
 from src.sentiment import analyze_sentiment
-from src.report import generate_sentiment_report
 
 
 def process_single_text(text):

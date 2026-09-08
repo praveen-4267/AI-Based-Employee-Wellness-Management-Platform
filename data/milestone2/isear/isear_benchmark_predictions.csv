@@ -1,0 +1,2274 @@
+emotion,text,predicted_emotion,confidence,correct
+sadness,"I partly colored my hair black. My mother didn't like it and  
+reproached me to be a ""subversive element"". Later on she stated  
+that this was due to my friends. As I see it, this all resulted  
+from colouring my hair.",disgust,0.49666252732276917,False
+anger,"When I was beaten up by thieves on behalf of some friends of mine  
+as they thought that I had a lot of money and would not part  
+with a few coins for their drinks.",fear,0.3928506374359131,False
+anger,"When my father phoned me to come home from my vacation, since he  
+no longer had the time to look after my garden and animals.",sadness,0.7013899683952332,False
+joy,"It was the first time I met him (my boyfriend Mr.W).  It was  
+during the first term Summer vacations.  We met each other while  
+handing in our homework.  He invited me have a trip with him and  
+we were together till 8 P.M.",joy,0.8198400139808655,True
+joy,When my boyfriend came back after being away for 10 days.,sadness,0.4853522479534149,False
+fear,"A bus drove over my right leg.  The event itself was not very  
+frightening but when I had to wait in the emergency ward for  
+three hours and then my leg began to swell, I was frightened.",fear,0.8267663717269897,True
+fear,"Motor failure on a boat outside Gottenburg when we were in heavy   
+seas and the wind was strong.  As we could not steer the boat we  
+drifted towards the rocks.  We did not succeed in attracting the  
+attention of any passerby until 4 hours had elapsed.",fear,0.7089987397193909,True
+sadness,When my grandmother died - at her funeral.,sadness,0.7750657796859741,True
+fear,"I was playing with friends then I decided to splash some sand  
+into a car which was moving nearby. The driver got angry and came  
+to report to my parents.",sadness,0.2761017084121704,False
+joy,"For my parents anniversary, we hosted a party and we were very  
+happy.",joy,0.9664049744606018,True
+anger,"I was walking on a street alone in the afternoon when there were  
+not too many people on the street.  A couple of guys were  
+following me and I was ignoring them.  Suddenly one of them came  
+in front of me and started using dirty language and harrassing  
+me.  I got very angry and wanted to strike back at them.",disgust,0.5839464664459229,False
+anger,Exchange of points of view with my sister on a family matter.,anger,0.39199674129486084,True
+disgust,"At a social event when none of the guests would help to serve  
+food or clear tables. It was all beneath them.",disgust,0.45340874791145325,True
+anger,"One of my best friends accused me of giving up to early on  
+problems. It was only a casual remark on her side, but I was  
+angry and hurt.",sadness,0.7081839442253113,False
+disgust,"My friend promised to take me out for a movie but he didn't turn  
+up.",sadness,0.7252282500267029,False
+disgust,"I cannot remember exactly such a situation. But I know that  
+once I went to a very dirty lavatory and that disgusted me.",disgust,0.637420117855072,True
+disgust,"Being on view in a meat-factory. Pigs being cut open, pigs being  
+suspended from nods, blood everywhere, decompsition.",fear,0.44966796040534973,False
+disgust,"I went out with my sister, her boyfriend and his friend. I did  
+not like this young man. But suddenly he overcame me and kissed  
+me. He was very strong so that I could not defend myself.",disgust,0.2480171024799347,True
+disgust,When I was weeding the garden I found a lizard in my hand.,fear,0.27338850498199463,False
+joy,"When I was at school, no one thought I could pass my MCE so at  
+the end of the year my name was announced on the radio that I had  
+passed. I was the happiest person.",joy,0.9195664525032043,True
+sadness,When I got to know that my father had passed away.,sadness,0.8845992684364319,True
+disgust,"At the crowded conditions of living.  I always quarrel with my  
+elder brother as he puts the T.V volume at a deafening level and  
+I can not practise my piano lessons.  Thus I feel that my home is  
+disgusting.",disgust,0.6927278637886047,True
+fear,Every time I see a spider or a snake.,fear,0.4810244143009186,True
+sadness,"I made a long-distance call to people rather close to me and I  
+thought about the sad incident that had happened to them in the  
+near past; I knew that they were thinking about it too when I made  
+the call.",sadness,0.8354800343513489,True
+joy,Family member survived an operation.,sadness,0.6542994976043701,False
+joy,Winning a game after a long time of losing.,joy,0.8537864089012146,True
+joy,"I was appreciated by others, especially my family members and my  
+friends.",joy,0.9489473104476929,True
+disgust,"With a Manager who insists on making crude innuendos pertaining  
+to sex.",disgust,0.8355436325073242,True
+joy,"The situation in which I felt happiest in my life was when  
+I was with the person I love for the first time.",joy,0.9434157013893127,True
+fear,"I lived in a flat with a couple. The woman was so jealous of me,  
+that she sometimes had crying fits. Eventually her husband could  
+not stand that any more and wanted to kill me.",sadness,0.5573856830596924,False
+sadness,"I remember the day my father died. I was 11 years old and my  
+sadness was so great that until today I remember everything  
+about that day, from the clothes I was wearing to the reactions of people,  
+the despair of my mother and brother. It marked me a lot and was  
+the greatest sadness I felt.",sadness,0.920061469078064,True
+sadness,"I felt very sad when I lost my three Kwacha at civo Stadium when  
+Sam Mangwana was playing some Rumba records. That was not what I  
+expected, I wanted some Disco records.",sadness,0.9003187417984009,True
+fear,"I was at home and I heard a loud sound of spitting outside the  
+door.  I thought that one of my family members would step on the spit  
+and bring the germs in the house.",disgust,0.40406858921051025,False
+disgust,Seeing a pornographic film when looking for a place to live.,disgust,0.7876819372177124,True
+fear,When I was nearly beaten up by the brother of my girlfriend.,fear,0.577003002166748,True
+joy,"When I met a very close friend of mine after one year of  
+separation.",joy,0.7097775340080261,True
+anger,When I was charmed by my relatives.,joy,0.9386449456214905,False
+disgust,"I saw a drunk man tottering behind his wife and insulting her  
+awfully.",disgust,0.8331460952758789,True
+joy,"I was happy when at difficult times I could find support in my  
+friend and my fiancT, I was happy because of their spiritual and  
+moral help which gave me new power to struggle. I was happy then,  
+I felt it in my soul.",joy,0.9242633581161499,True
+fear,Going out alone in the dark.,sadness,0.3903900980949402,False
+fear,"When I was an exploration with my friends and almost got lost in  
+an unfamiliar environment.  It was getting dark and we did not  
+know how to get back home.",fear,0.6087969541549683,True
+anger,"When I learnt that a friend of mine had talked about me to  
+another friend and had said wrong things about my abilities and  
+attitudes.  I was very angry.",sadness,0.3798356354236603,False
+joy,"After going through much shame, I became a Christian and  
+something new happened in my heart.  Joy that overflows was  
+manifest in me.",joy,0.9286972880363464,True
+sadness,"When I left my boyfriend. I found another girl at his home but he  
+did nothing to relieve the situation.",sadness,0.7673256993293762,True
+anger,An old lady slipped and nobody helped her.,sadness,0.6187698841094971,False
+sadness,"When I recently thought about the hard work it takes to study, and   
+how one wants to try something else.  When I read a theoretical  
+book in English that I did not understand.",sadness,0.4715292453765869,True
+fear,"I experienced fear when I was not prepared for the final year  
+degree exams.",fear,0.6953375935554504,True
+joy,When a student of mine (at music) performed and played remarkably well.,joy,0.9408091306686401,True
+disgust,"When I heard about the advances an acquaintance of mine had made  
+to my friends, who did not approve of them.",sadness,0.344028502702713,False
+sadness,"I was in a car accident on the way back from a weekend rowing  
+regatta we'd won. 5 others were in the car. I thought I'd never  
+be able to row again.",sadness,0.7035335302352905,True
+disgust,"When my friends and I were camping in a weekend, and with little  
+food, we met a middle age couple from a small town that invited  
+us to eat in their house. Their house was small, badly built with  
+old and dirty forniture and utensils. The problem was with pans,  
+and dishes, and even the food.",disgust,0.5229812264442444,True
+anger,I felt angry when my friend told me that I had stolen her money.,sadness,0.4623681306838989,False
+fear,On the way down a ski slope which was difficult and steep.,fear,0.7409164309501648,True
+joy,"When I was pressing figures on the curtain cloth. I had bought  
+the cloth after months of hindrances.",sadness,0.33525246381759644,False
+fear,"When I slept for the first time all alone in the house where I  
+live now. A man phoned me at 2.00 am. He wanted something from  
+me. I was afraid.",fear,0.7296610474586487,True
+sadness,"When my girl went away for a holiday without saying good-bye to  
+me.",sadness,0.8384156227111816,True
+fear,"I should have given a test lesson to get a job. I had no courage.  
+I didn't make the test.",sadness,0.6290633082389832,False
+disgust,"When I heard that one of my good friends, when at a party, had  
+got herself involved with some very undesirable characters and  
+was experimenting with drugs.",disgust,0.5201154351234436,True
+joy,When I got my B.A degree with first class.,joy,0.30477598309516907,True
+fear,"When I was to sit for my first entrance exam. I had fear of a  
+possible failure.",fear,0.8201072216033936,True
+disgust,Saw people spitting in public.,disgust,0.5362234711647034,True
+fear,"On embarking on University life. I came from a different city and  
+did not know anybody at the Uni. I was frightened because my well  
+known and loved friends, also all my security had been taken  
+away.",fear,0.7639749646186829,True
+disgust,"A similar feeling I felt quite recently while travelling in a  
+taxi. The driver treated me roughly and dishonestly - he chose  
+the longest route, he overdrawed almost one lev more and he tried  
+to be intimate with me.",disgust,0.6341001391410828,True
+disgust,"When I dined with my new friends, one of them kept reminding us  
+that he was superior.",disgust,0.31292790174484253,True
+sadness,"My friend got married and went abroad, this made me feel sad and  
+lonely.",sadness,0.9203174710273743,True
+joy,"After a busy day I went back to my hostel.  I closed the door and  
+had a drink, then I read my favourite book on the bed.  Suddenly  
+I felt peace and joy.",joy,0.943703830242157,True
+joy,"After 10 days of hard work and having suffered many changes I  
+passed my last exam.",sadness,0.7492387294769287,False
+fear,"While I was pushing a court roller out of a ditch, I slipped and  
+fell down and the roller rolled back towards me -down slope-It is  
+a miracle that I still have my legs intact.",joy,0.7754257917404175,False
+joy,"When I get something that seemed very hard like getting a job, a  
+boyfriend, etc. A specific sutuations, was when I started to date  
+a boy whom I liked for a long time.",joy,0.5238931179046631,True
+fear,"Before an exam which I, finally did not take.",sadness,0.4570366144180298,False
+sadness,"When my sister left to go home, in Sweden, after the Christmas  
+Holidays.",sadness,0.656270444393158,True
+sadness,"One Saturday morning I had got ready to go out swimming with my  
+friends.  Unfortunately the weather did not permit it, so we  
+stayed indoors.",sadness,0.5284000039100647,True
+disgust,"For a drunk man (about 20 years old) that I met one evening, and  
+who behaved impudently with the girls standing by.",disgust,0.8181735873222351,True
+anger,When my mother interfered in my life.,sadness,0.5734214186668396,False
+disgust,"I and my friends got acquainted with a guy from Sofia who turned  
+out to be gay, but we found that out only after 2 or 3 days.",surprise,0.3993251323699951,False
+anger,"I was very angry when my friend lost my practical's journal,  
+which I needed to study for the exams.",sadness,0.6177247166633606,False
+anger,"When my father's new fiancee treats me like a child.  She does  
+not trust me and constantly misunderstands me.  I get  
+particularly angry when she says nasty things about my boyfriend  
+with whom she works.",disgust,0.6965892910957336,False
+joy,"When Wayne and Sue (close friends) were announced our guardians  
+at ther wedding.",joy,0.5741209387779236,True
+fear,"When we got lost in Florence and the coach did not turn up until  
+midnight.  I had no place to go to and there were strange reports  
+at the police station.",fear,0.7520829439163208,True
+disgust,When a skunk invaded camp.,fear,0.7175260186195374,False
+joy,"Being invited out by a person I wished to get closer to. He  
+telephoned and invited me to go out with him the next night.",joy,0.7146531939506531,True
+anger,"The emotion came when a certain boy opened my locker without my  
+knowledge.",sadness,0.6355001926422119,False
+disgust,"On the road there was a dead animal with its entrails showing and  
+its skull crushed.",fear,0.3916989862918854,False
+fear,Staying in a relative's house which was broken in before.,surprise,0.35186997056007385,False
+joy,"When my brother was born, everything went all right.  It had been  
+very likely that he would have a deficiency (my sister suffers  
+from Down's Syndrome) and that my mother would be in danger.",fear,0.6530991792678833,False
+sadness,"A close friend decided to stop with his study and to go back  
+home.",sadness,0.48443230986595154,True
+fear,Ran into a parking car on a bicycle.,anger,0.24840731918811798,False
+sadness,"My father recently having a heart attack - spending a few months  
+in hospital.",sadness,0.7417126297950745,True
+joy,Passing an exam I did not expect to pass.,surprise,0.5203626155853271,False
+sadness,When I failed an exam.,sadness,0.6065078377723694,True
+disgust,"I was sitting in the bus and a man with a very unpleasant  
+smell came and sat next to me, to top it all he smoked  
+continously.",disgust,0.7947626709938049,True
+disgust,"When I was accused of having impregnated someone's daughter, it  
+was the girl's cousin who had done it.",disgust,0.5664243698120117,True
+joy,"After sitting for the Standard 8 Exams for the second time in  
+1979, I had great joy when I heard that I was successful in the  
+Examination when the results were out.",joy,0.9479221701622009,True
+joy,"When my last year's second semester results came through - I was  
+ecstatic.",joy,0.9339085817337036,True
+disgust,"I was most disgusted when I had to make a nagging three day  
+journey recently from Calcutta to Bombay.  It was very boring and  
+tiring.",sadness,0.5362183451652527,False
+disgust,"When I saw a film in which the man suffered from an illness and     
+his skin came peeling off.",disgust,0.36357125639915466,True
+sadness,Recently I happened to remain alone for a long time.,sadness,0.8192099332809448,True
+sadness,"I lead a rather secure life.  The only thing I can remember is a  
+song from the nineteenth century which is against alcohol.  Both  
+the melody and the word (although naive) effected my emotions.",joy,0.5242933034896851,False
+disgust,"The acts of brutal violence in generally disgusts me. Fights,  
+phisical aggrssion, etc.",disgust,0.7094829082489014,True
+anger,"My young brother took my wristwatch in my abscence and sold it to  
+his friend at a cheaper price.",joy,0.7137482166290283,False
+disgust,"When I tried to explain to my child as to why there were  
+magazines wiith naked girls on them at the kiosk.",anger,0.2748655676841736,False
+disgust,"I had this feeling when I met a girl, not that she was dirty but  
+she was to ""fresh"", dump and childish.",disgust,0.84471195936203,True
+joy,When I had my four children.,joy,0.39091989398002625,True
+disgust,"When I found out that the seat in the coach that I had booked had  
+been sold to somebody else.",surprise,0.40474507212638855,False
+sadness,"Losing my job that I had for 4 summers. I took it personally and  
+cried for 6 hours off and on. I wanted to hide away and did for a  
+few days.",sadness,0.8813340663909912,True
+disgust,"About my girlfriend's sister who is a viper as I discovered some  
+time ago.",disgust,0.4642251431941986,True
+sadness,"The time I lost a badminton match, that I should have won at the  
+Zambia closed badminton championships.",sadness,0.4455121159553528,True
+fear,"It was spring and the ice was melting.  I was far out on a jetty and I poked the ice with a long branch to try and break it.
+ The branch went through the ice and I fell in, the water closed  
+in over my head.",fear,0.4193981885910034,True
+joy,"I had been away from home for a long time and when I came home I  
+was delighted.  It was wonderful to see familiar, dear people and  
+I was rejoycing in advance.  I had been feeling very lonely.",sadness,0.5105259418487549,False
+anger,"Getting a terrible exam mark, which I couldn't understand the  
+reason for, and trying to see a lecturer or tutor, but being  
+given the runaround.",sadness,0.5242494940757751,False
+anger,"I got angry when I learned how short a time we had to prepare for  
+the term examinations.",sadness,0.4592764377593994,False
+sadness,"When my parents separated temporarily and I was left behind with  
+my father.  As I loved my mother I wanted to go with her.",sadness,0.5191062688827515,True
+sadness,I like someone who does not like me and was rude to me.,disgust,0.6678510308265686,False
+joy,When I was admitted to the University.,sadness,0.3342553377151489,False
+disgust,I met my best friend's husband with a prostitute.,disgust,0.4323153793811798,True
+disgust,When I happen to witness some sadistic acts.,disgust,0.7546842694282532,True
+sadness,"The thought that I'll never sit at the school desk again, caused  
+a deep grief at the end of my eleventh form.",sadness,0.9102168679237366,True
+disgust,"When I watched TV and saw a performance of ""Prince"" (a popidol).  
+Disgusting he'd better be a stallion.",disgust,0.8122281432151794,True
+sadness,"I tried my level best to care for my client, I took an  
+appointment with a doctor and before meeting the doctor he  
+expired - a poor small boy from Uttar Pradesh.",sadness,0.7847098708152771,True
+joy,"When high level results were declared, I found my candidature  
+number.  I was very happy as I had not expected it.  As I had been   
+injured before the examination and I had performed poorly.",joy,0.7369109392166138,True
+fear,"One summer when I was camping with friends they devised and  
+elaborate plan to scare me by having our camp attecked by a wild  
+animal (one of them) and then convincing the campground was  
+the home of a satanic organization.",disgust,0.6290470957756042,False
+joy,"My father had an operation which lasted for hours.  We were all  
+very worried but it was successful.",fear,0.3972925543785095,False
+disgust,"I read a book whose plot and expressions were obscene and in very  
+bad taste.",disgust,0.812197208404541,True
+anger,"When an argument with a friend of mine over our behaviour towards  
+another friend turned into a quarrel.   I lost my temper and nearly  
+knocked him out.",anger,0.529086709022522,True
+sadness,It happened that I was alone - with no contacts with friends.,sadness,0.6682924628257751,True
+anger,"During an argument between friends, one of them accused me of  
+taking advantage of some other friends who usually come to the  
+university in my car, saying that I ask them too much money for  
+the petrol.",anger,0.41675567626953125,True
+anger,"My room-mate locked up our room without specifying where I would  
+find the keys.  I had to spend several hours in my other friend's  
+room.",anger,0.37478718161582947,True
+joy,"A party with no worries (i.e. no tests homework etc.) many  
+friends were present and good music.",joy,0.9659509658813477,True
+disgust,Saw a mate bribing the leader.,surprise,0.32936325669288635,False
+joy,"When my boyfriend and I went out for a dinner and subsequently  
+went to his family. We had a very nice evening.",joy,0.9642461538314819,True
+anger,"We had fixed time for practice as we had to participate in the  
+inter-department song contest.  I arrived and found that there  
+was nobody there.  When I went to the canteen I found them eating  
+lunch.  I was so angry that I aired my greviances to one of them  
+and then left.",sadness,0.43596354126930237,False
+joy,"I met my present boyfriend on a boat trip to England.  We had  
+said that we would call each other when we got back to Sweden (we  
+were not going to the same town in England).  As soon as I walked  
+in he called from England as he could not wait till he came  
+home.",sadness,0.26607441902160645,False
+joy,"I received money from my father at a time when I was completely  
+broken.",sadness,0.916124165058136,False
+anger,"When I saw parents punishing their little child for something he  
+had not done.  In my opinion, even if he had done it he should  
+not have been punished for it.",disgust,0.45412924885749817,False
+anger,"I felt it on the same occasion when I felt sadness which finally  
+grew into anger.",sadness,0.8635741472244263,False
+fear,"Finding out that my health condition may be against my attending  
+university lectures.",fear,0.595194399356842,True
+sadness,After shouting at a friend.,anger,0.6995914578437805,False
+fear,"Housesitting and hearing the alarm go off. I knew someone had to  
+be breaking in. I called the police and was panicking while on  
+the phone. It was awful. It turns out that I stepped on the  
+hidden alarm without prior knowledge of its existance.",fear,0.770785927772522,True
+fear,Having my luggage checked at Customs.,anger,0.4437630772590637,False
+joy,"When I was a student at the Institute doing my M.Phil degree, one  
+of my professors called me before the convocation and told me  
+""You have got the gold-medal (first rank) in the university and  
+tomorrow you will be on T.V"".",joy,0.7075830698013306,True
+anger,"I live with my sister now and sometimes she angers me especially  
+when she thinks I don't keep the apt. clean enough.",anger,0.37894997000694275,True
+sadness,"For not having succeded in getting the job as a translator that I  
+wanted.",anger,0.4929843544960022,False
+anger,"At a certain situation I felt myself neglected and undeservedly  
+harmed.",sadness,0.6973537802696228,False
+joy,"When I made up with a girl-friend of mine after having been on  
+unfriendly terms with her (my fault).  I cried with joy that  
+evening.",joy,0.7528491616249084,True
+sadness,"For the loss of a close friend or relative, but you feel grief  
+when you are away from home, too.",sadness,0.904279351234436,True
+sadness,"When realizing that my girlfriend and myself in fact had started  
+the process of breaking up.",sadness,0.4524095058441162,True
+joy,Had a letter from my father (usually he does not write to me).,sadness,0.5218716263771057,False
+anger,"With the girl whom I may be loved truly. When she refused to come  
+with me to an occasion (she was from another town).",sadness,0.45527753233909607,False
+anger,"When we were in high school a few guys sometimes provoked a  
+friend of mine.  They called her a pig and then grunted.  This  
+irritated most of the girls.  Once, one of the girls got angry at  
+my friend and said something nasty and this made me terribly  
+angry.",disgust,0.6756932735443115,False
+sadness,I did not quite succeed in breast feeding my baby.,sadness,0.7772251963615417,True
+sadness,When my mother died.,sadness,0.8392756581306458,True
+joy,"When I gave birth to my son and saw that he was alive and that I  
+had managed it well.  He was born a month too early with a  
+malfunctioning lung.  This happened a year ago.",sadness,0.5707550048828125,False
+fear,"When I was very young, one day, I was in the street with my  
+father and brother.   While my father was talking to some  
+friends, I saw a dog and began to pat it.  My father told me  
+sharply to stop doing it because the dog had mange.  Then my  
+brother told me that I would die and I could not stop crying  
+after this.",sadness,0.8144468069076538,False
+joy,"I had met someone and we became good friends. Our relationship  
+grew closer and now he is my boyfriend. I felt joy when I found  
+out how he felt about me.",joy,0.9273468255996704,True
+disgust,"My main disgust is against codfish because I detest even the  
+smell of it.",disgust,0.7499599456787109,True
+disgust,"When my parents behave very ""witty"" towards me, they make insipid  
+jokes about which they laugh. Or my mother who treats me like a  
+little child.",disgust,0.5541056990623474,True
+disgust,"When I entered a brothel and saw two sailors with a young  
+prostitute who was not older than 18.",disgust,0.37909430265426636,True
+sadness,When my brother (5th in the family) passed away.,sadness,0.8823944330215454,True
+joy,"When I was accepted as a student of Psychology here at  
+Gutttenburg.",joy,0.35769009590148926,True
+disgust,If a guy one is not interested in makes advances.,disgust,0.666444718837738,True
+anger,"My roommate leaving my drawers in a mess after plowing thourgh  
+them looking for something.",disgust,0.3036956489086151,False
+anger,"When I talked with a teacher yesterday who, to say the least, was  
+rude and unwise and had irrelevant opinions about a friend.",disgust,0.7202829718589783,False
+joy,I'd just got the top mark in an exam.,joy,0.3201447129249573,True
+joy,"I worked at a lawyer's office during Summer and I got a very  
+good reference from him.",joy,0.8447641134262085,True
+disgust,"On a trip to Santander a child sitting beside me fell ill and  
+started to vomit, seeing this made me feel very bad.",sadness,0.7466683983802795,False
+joy,When I accepted Jesus Christ as my personal saviour.,joy,0.644114077091217,True
+disgust,"A nightmare.  I was dreaming about bloodsuckers, which I tried to  
+shake off from my body, they are everywhere, they get glued, they  
+suck.  And there are a lot of them.  I panic.",fear,0.7947638034820557,False
+sadness,"When I finished a relation after four years, leading to much  
+sorrow for the other one and myself (""although it was the best  
+solution"").",sadness,0.9249029755592346,True
+anger,"Realizing that a friend had been talked into signing a certain  
+contract.",surprise,0.4688791334629059,False
+disgust,"Some time ago I was disgusted with the ""cleanness"" of the  
+refectory of our institute.",disgust,0.7048667669296265,True
+fear,"I feared that I was pregnant.  It was not planned and I would  
+have been compelled to have an abortion, which I would not have  
+liked at all.  Fortunately, after a week's anxiety, I got to know  
+that I was not pregnant.",fear,0.5299661159515381,True
+sadness,When a close friend drowned in the American River.,sadness,0.6435365676879883,True
+sadness,When the gear broke on my car.,fear,0.5643348097801208,False
+sadness,"When my husband lied to me, tricked me and when I had to leave my  
+home.",disgust,0.5159223675727844,False
+disgust,"I saw a septic, smelling wound.",fear,0.546494722366333,False
+fear,"This issue worried me rather than saddening me.  In mid September  
+I went to Guanggho alone.  I was looking for an accomodation in  
+the evening and after having walked 2 or 3 miles I still could not  
+find anything.  What could I do?  I was not worried about  
+sleeping on the streets but because of some procedural problems.   
+I finally found a place to sleep at 8 o'clock.",sadness,0.5473846793174744,False
+anger,"I was waiting to receive the participation on the profits and did  
+not receive it.",sadness,0.5986387133598328,False
+fear,"Stopped at lights in Mangere late one Friday night on way home  
+from work. Alone in car when someone came up behind the car and  
+started banging and shaking it. Light was red and had nowhere to  
+go until light changed. When green I took off.",fear,0.4823116362094879,True
+fear,"At about midnight I had to go by bike through Graz alone. On the  
+whole it was a distance of several kilometers. A car followed me  
+through the streets. Only when I went into a one-way street the  
+car disappeared. The rest of my way home I was very afraid.",fear,0.823420524597168,True
+fear,"I lived alone in a repulsive area in the city of Rotterdam. I was  
+annoyed, heard a lot of Burglary and assaults. Especially in the evening  
+and the night I frequently felt anxious.",fear,0.6089130640029907,True
+joy,I found myself a place after looking for one for a long time.,joy,0.6086732149124146,True
+fear,When my mother had a nervous illness.,sadness,0.6440343856811523,False
+disgust,"I felt disgusted when a certain lady spoke words of sarcasm when  
+I was trying to propose to her.",disgust,0.7231436371803284,True
+sadness,I was not chosen for the All English class.,sadness,0.5430240631103516,True
+anger,"When I heard on the radio that the football match in Belgium had  
+ended in a catastrophe, and several people had died.  I could not  
+ understand how normal people could behave in such a way.",fear,0.4077327847480774,False
+sadness,When my beloved grandfather died.,sadness,0.8801760077476501,True
+fear,"My sister had to undergo a very complicated operation, her  
+eyesight was at stake.",fear,0.5822024345397949,True
+sadness,"The day I was to receive my gold-medal for the M.A, my  
+grandmother, who I loved very much, died after an illness.  She   
+died a few hours before the convocation.  While I was  
+attending the convocation I had to control my grief as she would  
+not have liked me to miss it.  It was a day she had been waiting  
+for, but did not get to see.",sadness,0.9154090285301208,True
+sadness,"When the grandmother of my friend died in a hospital. My friend  
+was crying and I was sad, too.",sadness,0.9301029443740845,True
+anger,"During a trivial (friendly) discussion, one of the participants  
+made an intervention which made me feel uncomfortable.",disgust,0.33780142664909363,False
+joy,"I received the message that I'd been accepted at the school where I  
+really wanted to go.",joy,0.42398715019226074,True
+joy,"After being depressed because of a very bad relationship, my  
+first love called me and told me that he would always care for me  
+no matter what I did.",sadness,0.9086363315582275,False
+fear,"I felt a physical fear, if I can call it this way, today, in the bus where  
+I was sitting on the first seat. While turning the driver didn't  
+see the tram which was making a dash towards us (coming from the  
+side I was), and whose driver intended to cross in yellow  
+light.",fear,0.8115187287330627,True
+anger,"I felt anger against a colleague of mine during a rehearsal in  
+acting. He hadn't learnt the text of an opera act in the course of  
+several months and thus making difficulties for the rest of my  
+colleagues.",sadness,0.49165940284729004,False
+fear,"When  first came to CAL I went to a rally on Sproul and I later  
+learned that the rally was conducted by the Moonie cult. They  
+were taking pictures at the rally, so I was afraid that they  
+would circulate the pictures and then kidnap people. I did not  
+know how the cult worked. I was scared.",fear,0.8538962006568909,True
+joy,When I got a small present form a person I like very much.,joy,0.9504015445709229,True
+disgust,"My older sister used to pick on my brothers and sisters all of  
+whom were younger than her. On one occasion my brother did  
+something my sister didn't like. A full-scale battle began.",fear,0.35397958755493164,False
+disgust,"Having been unjustly punished, I feel disgust towards the person  
+responsible.",sadness,0.43173056840896606,False
+sadness,"When I felt powerless to help the poor or when I don't know how  
+to.",sadness,0.7914844155311584,True
+fear,"A rainy day, I was cycling downhill and a car door suddenly  
+opened and while trying to avoid it the back wheels of my bike  
+got caught in the tram tracks.  I somersaulted but had no  
+injuries.",fear,0.6073582172393799,True
+disgust,"When an unpleasant person tried to make friends with me.  A  
+subtle, small, insignificant, grey being whose helplessness and  
+neutrality evoked the feeling of disgust in me.",disgust,0.6967248916625977,True
+sadness,The death of a close friend.,sadness,0.8104851245880127,True
+anger,"When I found out that my sister had been playing with my  
+confidential things which she had taken from my hand-bag.",surprise,0.3725353479385376,False
+fear,"When I was very young and we moved as a family to Auckland from  
+Wellington, this meant new school and friends (etc.).",joy,0.6535881757736206,False
+anger,"The patient whom I expected to get well suddenly passed away  
+after he showed had his meals.",sadness,0.8403825759887695,False
+disgust,"The repression of rioting and non-rioting ""Blacks"" in South  
+Africa by the police of that ""Democracy"".",disgust,0.5113332271575928,True
+joy,"For a few days I felt very miserable, distressed and listless,  
+with crying fits. When this was over I felt very happy, although  
+there was no special reason.",sadness,0.9043583869934082,False
+joy,"When I dived among sharks and the brightly coloured fish on the  
+outer reef of Tvavni, Fidgi.",joy,0.6151193976402283,True
+disgust,I saw some images of a decapitation in a horror film.,fear,0.313358336687088,False
+sadness,"Upon moving away from home for the first time to a different  
+city, I felt no longer ""under the wing"" of my parents even though  
+they would always be there to help me. I felt a sense of loss, I  
+was now all alone in the world, responsible for my own actions.",sadness,0.9134124517440796,True
+anger,"When I heard that I was not to be provided with another pair of  
+medical uniform.",sadness,0.44841107726097107,False
+disgust,"One day I was in the countryside with several friends, and we  
+began to eat figs, after we were all full we noticed that all the  
+figs were full of worms.",joy,0.40094706416130066,False
+fear,When I was travelling at night.,sadness,0.4093586206436157,False
+anger,"My mother and her friends were speaking badly about my father  
+when they were separated, and my brothers and sisters and myself  
+were allowed to listen.",sadness,0.7942830324172974,False
+fear,"When I was going to bring back my girlfriend to LA to meet my  
+parents.",sadness,0.3117353320121765,False
+sadness,"Two years ago my best friend died in an accident, just a day  
+before my birthray.  We were very close to each other and I felt  
+very sad at loosing a close friend.",sadness,0.9270936846733093,True
+fear,"When I was the first to arrive at the scene after an accident,  
+and found that a close school friend had been killed.",fear,0.5922152996063232,True
+joy,"I was very joyful when I heard that I had passed the standard 8  
+exams. The day I heard the news was the day I celebrated my  
+birthday.",joy,0.9403886198997498,True
+fear,"When there was a fight at home and my father threatened to throw  
+a chair on my brother.",fear,0.6054624915122986,True
+anger,"When bicycling along, a courier van started to tail me very close  
+- I sped up and moved over and he just did the same. I reacted  
+violently, much physical responding in the dangerous situation.",fear,0.8201165199279785,False
+fear,"A car came very close to hitting me whilst I was crossing the  
+street.",fear,0.8168801069259644,True
+anger,"Two boys whom I know were telling me, in an indecent manner, how  
+they had teased a young and shy girl I know.  They had despised  
+her conviction, scorned and touched her.  I got very angry and  
+did not try to conceal it and gave it back to them.",disgust,0.7149463295936584,False
+sadness,A friend who was 22 years old died.,sadness,0.8850694894790649,True
+disgust,"No very strong such emotion. Treatment of my sister by her  
+dancing instructor - he is a ""user"", i.e., takes advantage of her  
+good nature.",disgust,0.5639156699180603,True
+anger,"I felt angry when I heard that my sister had failed the  
+Examinations which we hoped she was going to pass with  
+distinctions.",sadness,0.5668951869010925,False
+joy,Aticle published.,joy,0.30745628476142883,True
+disgust,"Doctors ignored relative who complained about pain, and is now  
+dying of cancer.",sadness,0.8092683553695679,False
+anger,"I was with my girlfriend when some guys that I don't like made  
+fuss at my girl.",disgust,0.5317683219909668,False
+fear,"I was in about Grade 7, I came home from school one day and was told  
+that my mother had skin cancer and would have to go to the hospital  
+straight away.",sadness,0.7710898518562317,False
+anger,"When people without my permission pry in my belongings and take  
+things out of it.",anger,0.39199119806289673,True
+joy,"When I heard that I had been selected fot the first year at the  
+university of Zambia.  This was after my form five at Chikola  
+secondary school.",joy,0.35865041613578796,True
+joy,"After having considered it for hours I was able to overcome my  
+scruples and to call a friend with whom I had fallen in love. I  
+realized that my decision was right - and was very glad.",joy,0.9254202842712402,True
+sadness,"After a meeting ended we started talking about when we would  
+have the next discussion ( I had many tests the coming week and  
+could not have a meeting in between, I thought that they would  
+understand this as they had always done).  They did not  
+understand my problem and thought that I should not have so many  
+other activities.  Their reaction made me burst into tears.",sadness,0.7996901869773865,True
+disgust,"I felt disgusted when I was not given money for lunch at school  
+by my father as a punishment for beating my little brother.",disgust,0.5239503383636475,True
+joy,When I told my girlfriend a joke openly and frankly.,anger,0.6616002917289734,False
+disgust,"On Christmas day a drunk man came to our house without a shirt  
+on, he dansed, spoke nonsense and behaved stupidly.",disgust,0.8367220759391785,True
+joy,"When I am with friends and I do what pleases me this often  
+happenes.",joy,0.4360320568084717,True
+disgust,The price I was charged for work on my car.,anger,0.3215808570384979,False
+sadness,"I was going away, leaving a dear person behind.",sadness,0.8425968885421753,True
+sadness,"When I realized that I could not communicate properly with my  
+closest friend.",sadness,0.5910235047340393,True
+joy,"When I received my U.E. accredited as I was totally unexpecting  
+it and I was so happy.",joy,0.9506512880325317,True
+disgust,On seeing a scene of an accident in a magazine.,fear,0.3595797121524811,False
+sadness,"It was on 9th January 1983 when I received a message from home  
+telling me that my father passed away on the previous day with a  
+history of cancer of the oesophagus. This time I was doing my  
+third year of my Secondary School.",sadness,0.7322629690170288,True
+joy,"[ During a certain period, I felt successful and extremely satisfied.    
+When I found that any tasks or decisions that I had made were better   
+than expected.]",joy,0.9214968681335449,True
+sadness,"A very close friend from Victoria visited me over the holidays.  
+Having enjoyed his company immensely over 10 short days, I was  
+overwhelmed by sadness when he left to return to Victoria.",sadness,0.9155308604240417,True
+anger,I saw a report on T.V news on apartheid in South Africa.,sadness,0.2561340928077698,False
+disgust,When someone makes advances that one does not want.,disgust,0.6227720975875854,True
+joy,Hear a very nice joke made by a friend.,joy,0.9533066749572754,True
+fear,"When I have to go in for an exam and the examinor is a person  
+with a whimsical character and unsteady requirements.",disgust,0.6230137944221497,False
+sadness,"[ When after a night of sleeping in another's arms, one wakes  
+alone and knows that the lonely arms of the night are not the  
+same that one meets in the morning.]",sadness,0.7945528030395508,True
+joy,Relatives visiting me.,sadness,0.6342889070510864,False
+disgust,"My room-mate was drunk, he vomited on the floor and fell face  
+down on the vomit nearly choking himself to death.  Then he  
+fainted and so I called the first aid.",sadness,0.3913794457912445,False
+anger,"When I was accused of having refused to do some hostel work while  
+I was at school.  Actually I had not been allocated any work.",anger,0.43219488859176636,True
+sadness,"My mother was working with a knife and we were all laughing  
+heartily.  She was not able to control the knife and stuck it  
+deep into her hand.",joy,0.4062822461128235,False
+sadness,"When my uncle died whom I had loved very much. I was very sad and  
+I felt totally helpless.",sadness,0.9301664233207703,True
+joy,When I passed and qualified for the university.,sadness,0.31503355503082275,False
+disgust,Overeating a traditional type of food - blood pudding.,disgust,0.7309116125106812,True
+sadness,To buy a car and didn't like the business and the car.,disgust,0.3798068165779114,False
+fear,"When my brother hit his head and lost consciousness at the sports  
+practice.  For some time he could not remember what had happened  
+but he recovered later.",sadness,0.6110005378723145,False
+anger,"When I was at S.Y.Bajaj I wanted to get admission in another  
+college and this was not easy and I felt angry.",sadness,0.6037641763687134,False
+sadness,"I felt it when I was at home and saw a discussion without sense  
+between my parents.",sadness,0.2774451971054077,True
+anger,"When it became clear that a man had used many people sexually  
+and psychologically, despite the fact that many people looked up  
+to him.  I understood that one could not trust him and I was  
+forced to hide this for a while.",disgust,0.39864638447761536,False
+sadness,My grandfather died thirteen years ago.,sadness,0.9089844822883606,True
+fear,"I was to be given an audition to get a role. I had a competitress  
+and I wasn't well prepared because I was ill.",sadness,0.7018337249755859,False
+anger,"When my sister took my things without having asked for my permission  
+first.",anger,0.38076162338256836,True
+disgust,"When I red a report in the magazine VESA about an Iranian telling  
+what she had lived in the prisons in Iran. I felt disgust about  
+that people.",disgust,0.4976688027381897,True
+joy,When my one year old son gives me a spontaneous kiss.,joy,0.9372596740722656,True
+joy,Talking with someone I admire a lot.,joy,0.9440528154373169,True
+fear,"I was driving and stopped at a stop light. I was planning to make  
+a right turn as soon as it was clear. It was clear on the left so  
+I started but a man was just in front of the car.",fear,0.7490275502204895,True
+sadness,The disqualification of two of my mates in the military service.,anger,0.5051859617233276,False
+disgust,"I received a letter which was too strong for me. It said I had  
+done something which I really didn't do.",sadness,0.6664233207702637,False
+anger,"I was very angry when one day I went to see my girlfriend I  
+talked to her and could not answer back. She was depressed for  
+reasons which were not known to me.",sadness,0.8676709532737732,False
+fear,"The time I drove my uncle's car, without having asked for his  
+permission.  It was the first time that I was driving a car.",joy,0.35159409046173096,False
+anger,"I experience that feeling when I am unsulted without deserving  
+it or when someone deceives me.",sadness,0.545760452747345,False
+disgust,"Getting back my math midterm, I received a lower grade than I  
+thought I would get. After going through the questions I felt  
+that the grader had graded harshly and I had made only a few ?  
+errors.",sadness,0.47576668858528137,False
+anger,"When I heard that an acquaintance of mine was spreading rumours  
+about my affair with a close friend.",fear,0.2457515150308609,False
+disgust,"Disgust with oneself after being intoxicated enough to go to bed  
+with a stranger.",disgust,0.7078025341033936,True
+disgust,"At a discussion a friend took a ""faschistic view"", what I had not  
+expected.",surprise,0.606162428855896,False
+joy,"When my red-cheeked, content child runs to meet me in the yard of  
+the kindergarten and gives me a moist kiss on my cheek.",joy,0.9088446497917175,True
+sadness,"I felt very sad when my boyfriend wanted to break our  
+relationship. Our relationship lasted two years, we shared  
+everything and all this was finished.",sadness,0.9191799163818359,True
+disgust,"When I discovered my mother had been having an affair with my  
+father's best friend, and then ran away with him without even  
+speaking to me about what she was doing letting me come home from  
+school simply to find her gone. I was filled with disgust and  
+contempt.",disgust,0.5123155117034912,True
+joy,When I knew about my first job.,sadness,0.31860119104385376,False
+sadness,"The loss of my father as he died of a massive and sudden heart  
+attack.",sadness,0.8620290160179138,True
+disgust,When employer made a pass at me whilst I was at work.,anger,0.39254042506217957,False
+sadness,"When I argue with my mother about the way she treats her two  
+children differently.",anger,0.42063501477241516,False
+anger,"When someone tried to rape one of my best friends and he claimed  
+it was her fault. He the hassled her, claimed she was loose, and  
+threatened to sue her.",disgust,0.39194875955581665,False
+anger,"If they force me to eat something I don't like. For example, my  
+parents always twaddle and whine, when I don't eat all the food.",disgust,0.4259852170944214,False
+sadness,"When summer is over and I have to leave the town where I spend my  
+holidays.",sadness,0.7036532163619995,True
+joy,"In a day when at work, in school, and relationships came out as I  
+wanted, and I was recognized in my work.",joy,0.5685631632804871,True
+disgust,"When I was about to clean the draining board and saw it looked  
+underneath the sink (I live in a students hostel).",surprise,0.338763564825058,False
+disgust,"I had a friend who was very kind to me.  I tried my best to like  
+him and understand him but when I was with him I could not help  
+rejecting, criticizing and blaming him.  I wanted to get away  
+from him as soon as possible.",sadness,0.7916524410247803,False
+fear,"I was afraid when my first boyfriend threatened to make an end to  
+our relationship because he didn't love me enough while I loved  
+him very much.",fear,0.6138210296630859,True
+anger,"When the person I'm having the affair with won't talk to me in  
+public.",anger,0.4351886808872223,True
+disgust,Saw an arrogant girl walking pass by.,disgust,0.7985382080078125,True
+disgust,"I saw in an ice-cream kiosque a cockroach walking through a  
+cornet.",disgust,0.5657697916030884,True
+anger,"An old woman was violently thrown down the stairs of the tube by  
+a group of louts.",fear,0.5188062787055969,False
+sadness,"There is a boy who I love very much. I asked him to have dinner  
+with me, but he refused I don't know why he didn't go with me,  
+but I felt very lonely.",sadness,0.9113332033157349,True
+anger,"My family told me to leave if I was not willing to accept the  
+conditions they imposed on me.",sadness,0.3718433082103729,False
+joy,When I heard that I had been selected for the university.,joy,0.34848007559776306,True
+disgust,"When I see all the putridness of people. The fact is the catarrh  
+and spits that whash the streets of S.Paulo.",disgust,0.7900888323783875,True
+joy,"I learnt from the newspaper that I had been accepted at the  
+Chinese university of H.K.  It was 7 o'clock in the morning.   
+Later I told my family and relatives about it and had tea with  
+them very joyfully.",joy,0.9444311261177063,True
+disgust,"When I think now about the way my father behaved when filing a  
+divorce.",sadness,0.5084177255630493,False
+joy,"When I was appointed by the Ministry of health to join the  
+teaching staff of one of the medical colleges.",sadness,0.31820404529571533,False
+fear,"One day, when I realized that I was alone, I felt fear of  
+loneliness.",sadness,0.85023033618927,False
+disgust,Someone not responding to my criticism.,anger,0.555793046951294,False
+anger,When a friend of mine was trying to make a fool out of me.,disgust,0.7607241868972778,False
+sadness,"Listening and watching a tape of someone with AIDS being  
+prejudiced against at a counselling course on AIDS with 20  
+others.",disgust,0.48415613174438477,False
+joy,When in an economic crisis I got an unexpected sum of money.,joy,0.4144667387008667,True
+joy,"I didn't like my former fob and felt joy when I received a  
+telegram offering me a new one that I though better and for which  
+I had been waiting.",joy,0.7657729983329773,True
+joy,"When an old schoolfriend phoned me to arrange an appointment to  
+talk about old memories. I hadn't seen him for 8 years.",sadness,0.4291497766971588,False
+sadness,"I am filled with gloom and sadness at the death of a person.   
+More specifically, I felt sad after hearing the news of a  
+death of a person who was hale and hearty and full of life, with 
+vigour and plans for the next day but had no next day to cherish it.",sadness,0.9141943454742432,True
+anger,"At school, a couple of years ago, a so-called acquaintance told lies  
+about me to a teacher I was told about it by friends who overheard  
+the conversation.",disgust,0.37958773970603943,False
+anger,"My little niece, who is very talkative, suddenly became very  
+naughty and began wetting her pants.  She did it one afternoon.",disgust,0.4545077681541443,False
+anger,"My roommate liked to listen to some meaningless songs which had  
+melody but had no content.  We lived together so when he played  
+the recorder I was forced to listen to them.  I could not tell  
+him that I did not like to listen to the songs, as I had no right  
+to disturb the freedom of others.  So I would find a pretext to  
+leave the room and go somewhere else.",disgust,0.5156933665275574,False
+joy,"After one year of searching, my friend and I have found a flat we  
+are able to pay for.",joy,0.9050599336624146,True
+disgust,"When I saw a drunk man urinate upon himsellf and he seemed to be  
+thoroughly content with it.",disgust,0.49895748496055603,True
+sadness,"When I failed an exam last Summer.  I had worked very hard for it  
+and I was very disappointed thinking that it was hopeless to  
+continue at college.  I did overreact.",sadness,0.9032850861549377,True
+disgust,When a girl that I liked didn't accept my curting.,anger,0.42113012075424194,False
+joy,My friend told me he really likes me.,joy,0.9582107663154602,True
+fear,I could have been killed by a falling object.,fear,0.7417463064193726,True
+joy,"I got a good reaction from my tutor and tutorial group for a  
+presentation I'd given that I was very worried about.",joy,0.33471208810806274,True
+disgust,"Being mistreated by my former primary school teacher, Mr Zalu.",disgust,0.6848312616348267,True
+sadness,"I have been thinking of changing my major for a few months.  My  
+original major was Chinese language and it blocks my way.  I have  
+to face many problems at the sametime and I do not know what is  
+real and virtuous.  I do not know if I am not interested in  
+Chinese or if there are other factors which make me sad.  I am  
+not very clear on what I can do for the study of Communication  
+and Journalism.  I am not clear about what I can do.  What are  
+the limitations ?   I hesitate but I feel more adjusted now.",sadness,0.5586201548576355,True
+joy,"I received an assignment back, and got an A+ grading.",joy,0.7175390720367432,True
+sadness,"When I read the diary of the girl with whom I was living, it was  
+about another boy with whom she had been going around some time back.",surprise,0.3758516013622284,False
+joy,When I received a beautiful birthday gift form my parents.,joy,0.962422251701355,True
+joy,"Receiving notification that I had made a successful application  
+to the Speech Therapy course at Uni, gave me a very good feelig  
+of achievment and joy.",joy,0.9599552154541016,True
+disgust,"I was stopped from entering a party while I was at School but I  
+had an Invitation card with me. This was done because they said I  
+was too young to join elderly people.",sadness,0.43274134397506714,False
+anger,"One day, when riding on a bicycle path, a car coming from the  
+opposite direction forced me to get off my bike although I had  
+the priority.",fear,0.4877675175666809,False
+anger,"My life-partner, who was drinking more and more, spoke about  
+kicking the cat.  He had never done anything of the kind, but I  
+knew that he would do so one day, without thinking about it.",disgust,0.2674766480922699,False
+disgust,"A friend of mine had sex with someone of a different race on a  
+Winnebago trip down to USC in front of everyone (all my friends  
+embarrassed my sorority house name).",disgust,0.412141889333725,True
+joy,"I have a girlfriend, who is almost like a daughter to me.  She is  
+studying out of station and I get to see her only once a year.   
+Her arrival is always a joyous one.",joy,0.9289475083351135,True
+joy,"When I was accepted as a student at the college, not having  
+thought it possible.",surprise,0.5800462365150452,False
+fear,Having a car accident.,sadness,0.4623359739780426,False
+anger,"In a situation whereby a friend's actions were deliberately  
+against my wishes and (with) no regard to my feelings.",disgust,0.4591267704963684,False
+disgust,A striking act of ingratitude at a public vehicle.,surprise,0.3672162890434265,False
+disgust,Saw my brother-in-law insulting my sister.,disgust,0.6679268479347229,True
+joy,"When I passed the whole weekend with my boyfriend, coming back  
+home on Sunday afternoon he met my parents for the first time.",joy,0.8172800540924072,True
+sadness,"During the Physics experiment session I did not understand the  
+content of the experiment and did not know how to do it.",sadness,0.45513659715652466,True
+sadness,When I failed the grade seven examination.,sadness,0.6235755681991577,True
+fear,"Because of a conflict with my parents there was a possibility to  
+interrupt my studies.",fear,0.7203614115715027,True
+joy,"I had a picnic with old classmates, we chatted and played games.",joy,0.9046311974525452,True
+joy,My class winning against another class in a football match.,joy,0.7713428735733032,True
+sadness,My father died last year after an 8-week severe illness.,sadness,0.9092031121253967,True
+joy,When I attended the concert of a pop singer.,joy,0.48807770013809204,True
+fear,"When I was told that my daughter, who is at a boarding school,  
+was very ill and that they needed me there the same day.",sadness,0.5594964027404785,False
+sadness,"At my grandfather's funeral.  I remembered that the thing he  
+liked and respected most was earth, I thought that he had  
+attained what he wanted and was not separated from it any longer.",sadness,0.38230621814727783,True
+sadness,Finding out that the girl I like does not like me.,sadness,0.3631640076637268,True
+sadness,When another person's mother died.,sadness,0.7384465336799622,True
+joy,"Went to a movie with a date, walked on the beach (in Alameda)  
+spent some time afterwards in her apt.",joy,0.7549183368682861,True
+joy,"In Southern Tyrol, I was gathering apples, it was a fine day, I  
+was not thinking about anything, I felt an overwhelming joy.",joy,0.9594249129295349,True
+disgust,"At school, I detested the spinach gruel which had lumps of flour  
+in it.",disgust,0.6573247313499451,True
+fear,"I was living with my brother and one day he went away on business  
+and I was left alone to look after the house and the property. At  
+night thieves came and wanted to break into the house.",fear,0.5088940858840942,True
+joy,"When I discovered that I and my friend would be licensed at the  
+first call. This emotion was accompanied by a great relief. It  
+was the coronation of a year of sacrifice and extrene discipline.",joy,0.9242788553237915,True
+anger,When a little brother of mine damaged a cassette.,sadness,0.2656162679195404,False
+sadness,When my flute-teacher was replaced by a new one.,joy,0.36320760846138,False
+fear,"I was going home by car late one night when it was cold, dark and  
+windy.  I became rather panicky on the way to my house.",fear,0.6737833023071289,True
+sadness,"After hearing the news about the death of my sister, I felt very  
+sad.",sadness,0.926823079586029,True
+anger,"When my room-mate was making noise deliberately, by playing a  
+flute early in the morning while I was trying to study.",disgust,0.3180253207683563,False
+anger,"When my brother-in-law's brother stole my clothes when my  
+brother-in-law and I had gone to cut wood for the fire.",disgust,0.5477793216705322,False
+joy,"I was emotionally happy when I was in love with the girl I had  
+longed for.",joy,0.9523444771766663,True
+sadness,"I was very sad when I had to leave persons with whom I had a very  
+intense relationship I also had to leave the environment which  
+was part of this.",sadness,0.9126609563827515,True
+fear,"An hour before receiving the certificate results I was very  
+frightened.  When I saw others crying I felt very tense and as  
+time went by my fear grew.",fear,0.7569757699966431,True
+anger,"My mother told me that I could not go to the mountains.  Despite  
+my age, as long as I am in her house I must do what she says.",sadness,0.40686190128326416,False
+joy,"It appeared that I gave correct answers to all questions during  
+an examination of personality while I thought I performed very  
+badly. Even now, I don't know how I managed it.",sadness,0.5369755029678345,False
+fear,I had a dream in which I was an African elephant.,joy,0.3129909336566925,False
+joy,"Right before I went to a concert with my last boyfriend he told  
+me that although he told me he was going to take me to the  
+concert, he didn't want to see me anymore. After that we stayed  
+overnight and I said ""well, when he leaves me I will be ruined  
+for awhile, but for now we're together."" I woke up in his arms  
+and it was the happiest moment of my life.",joy,0.9240716695785522,True
+disgust,"When someone whom I considered my friend, without telling me he  
+was annoyed, proceeded to ignore me for several meets with no  
+apparent reason.",anger,0.48583078384399414,False
+joy,"I came across a friend with whom I had lost touch for a long  
+time.",sadness,0.698176920413971,False
+disgust,"During a recent meeting, Mr. A showed his excitement and  
+overindulged in the notes delivered.  Though his curiosity could  
+not be blamed, his way of accquiring knowledge was an extreme  
+behaviour e.g he always tried to know what I was reading and  
+gained everything he could.",disgust,0.5152753591537476,True
+fear,Before giving a seminar to a rather large audience.,joy,0.27860894799232483,False
+anger,Made mistakes in exam.,sadness,0.6109812259674072,False
+anger,"When someone accuses me without reason and is not willing to  
+listen to me.",anger,0.5780807137489319,True
+sadness,"Sadness - this is an emotion which I have felt very often  
+recently. I can't remember a concrete example. I will describe my  
+general impression from severl situations which evoked this  
+feeling in me.",sadness,0.768220841884613,True
+disgust,"I went to a party and there were some cakes which weren't good  
+and had a bad smell.",disgust,0.43584421277046204,True
+fear,"One night I and my friends went to the cemetery. We stopped the  
+car in front of the wall and suddenly the grave digger appeared  
+over the wall looking like a ghost. I was already afraid and  
+almost died.",fear,0.7315168976783752,True
+anger,"When during a social evening with my father, brother, sister,  
+close friend and my father's 2nd wife - I had an argument with my  
+father, who abused my friend who was sticking up for me.",disgust,0.3314237594604492,False
+joy,"When I heard that a close relative of mine had given birth at a  
+very young age, in a very remote area and had had very few problems.",sadness,0.5237079858779907,False
+sadness,"Being sexually assulted and told my friends about it (we cried  
+together).",joy,0.4872322678565979,False
+sadness,"When I heard that my girlfriend was getting married to another  
+person, I felt very sad.  That day I did not eat anything and  
+kept thinking of her all day long.",sadness,0.9297387599945068,True
+joy,"I got a letter from my best friend, whom I had not heard from for  
+a long time (a good letter).",joy,0.6513506770133972,True
+sadness,"When my mother and father were on an excursion in Chechoslovakia  
+and I was at a student camp and I heard over the radio about the  
+events that were taking place there.",sadness,0.3369601368904114,True
+sadness,Leaving high school.,sadness,0.689927875995636,True
+anger,"Without my permission, my son had made popcorn after coming back  
+from school.  The consequences were a spoilt kettle and chaos in  
+the kitchen but what could have happened with the hot grease ?",disgust,0.4147224724292755,False
+fear,"Earlier, I was afraid of speaking in front of a crowd of people.",fear,0.8219999074935913,True
+anger,My roommate being unconsiderate.,anger,0.3452118933200836,True
+disgust,"When reading a newspaper story of a man who had committed  
+incestuous acts on his two-year old child - the thought that  
+anyone could do such a thing is abhorrent to me.",disgust,0.7934607267379761,True
+joy,"I preached to a F.3 students in a gospel camp.  They thus knew  
+more about God and made up their minds to believe in Jesus.",joy,0.47979527711868286,True
+fear,Taking a chemistry midterm.,joy,0.36200037598609924,False
+sadness,When my grandmother died very suddenly without warning.,sadness,0.6895310878753662,True
+joy,"I felt glad when I took the rather difficult organic chemistry  
+examination.",joy,0.9046508073806763,True
+sadness,"Two little children (5/6 years old) begging for money, and noone  
+gave them money.",joy,0.35970836877822876,False
+fear,Staying alone in the dark.,sadness,0.31638431549072266,False
+anger,"When I was dancing with a dame at a social, one of my friends who   
+was interested in her came and took her away from me.  I was  
+really angry with him then.",sadness,0.41504767537117004,False
+joy,"I was in grade 7.  We had an inter-house volley-ball competition.  
+ In Luapula I was the youngest member of the team and I scored   
+the winning goal using my head.  I jumped up with joy and fell  
+down.",joy,0.9361985921859741,True
+disgust,"When my cat vomited and a worm came out which was still alive.  I  
+was forced to wipe it up.",sadness,0.4603237807750702,False
+sadness,When my grandmother died after a long illness.,sadness,0.8897046446800232,True
+joy,When I was admitted to a certain school as a student.,sadness,0.28631481528282166,False
+sadness,"An uncle of mine who just retired, having worked hard all his  
+life, got a cerebral hemorrhage.",sadness,0.8007734417915344,True
+joy,"A meeting with the family and the friends I felt dear and loved,  
+sharing the gladness of being together at a birthday.",joy,0.9611039757728577,True
+anger,"When a friend who comes visiting me unexpectedly asks for coffee  
+and I refuse to give him this.",anger,0.604059636592865,True
+disgust,"I heard somebody talk about studies in a highly enthusiastic  
+""student-like"" way.",joy,0.5117642879486084,False
+fear,Travelling by coach on a rather narrow and wet road.,fear,0.33312541246414185,True
+disgust,"I went to the shopping centre to buy something and saw packets of  
+Kapenta  with maggots in them. Oh !",joy,0.4975503385066986,False
+anger,"I was to meet a friend at the bus-stop (he was coming to visit  
+us) and he did not turn up.  After having waited for him for some time      
+(about an hour) I called him up, to be told that he did not  
+intend to come as he was feeling tired.",sadness,0.6699739694595337,False
+joy,"When the result of the certificate exam was announced.  I was  
+surprised and happy as the result was better than I had  
+expected.",joy,0.8914564847946167,True
+joy,"I went to a doctor with a complaint. The doctor told me that I  
+was completely healthy.",joy,0.6259738802909851,True
+disgust,Some boys boasting about their ability to tell dirty jokes.,disgust,0.8360421657562256,True
+anger,"My intimate girlfriend told me that her father was opposed to our  
+relationship  and had insulted my integrity.",disgust,0.5128400921821594,False
+fear,"As I was in a ward one man died and I was instructed to watch the  
+last offices. But this was my first time to see a dead person -  
+fear came.",fear,0.7802557349205017,True
+anger,"There was a sofa in my flat which belonged to the old tenants who  
+were acquaintances.  It should have been picked up a year ago but  
+they had postponed it.  Eventually they decided on one date and I  
+stayed at home despite the fact that I had other things to do.   
+They did not come, nor did they call and they still have not got  
+in touch with me.",sadness,0.6376855373382568,False
+joy,"I spoke with a friend on the phone who I haven't seen in many  
+years. It was a joyful event to talk to him.",joy,0.9494897723197937,True
+sadness,"My grandfather was seriously ill, he had only a few days left to  
+live. I had always loved him, but never told him. When I saw him  
+for the last time, I had the feeling that I had omitted so many  
+things I could not do again. - There was a fly sitting on his  
+forehead and he was too weak to drive it away. I was very sad  
+when I saw that.",sadness,0.9192416071891785,True
+anger,When someone took my pen away.,fear,0.5790010094642639,False
+disgust,"When I was a child, one day while playing, I fell up to my waist  
+in mud.",sadness,0.553074300289154,False
+anger,"One of my first boyfriends got mad at me because a lot of my  
+close friends were guys and he didn't want me to see them anymore  
+because he was jealous.",sadness,0.40458083152770996,False
+fear,"I was within a hair's breadth of knocking down a drunkard who  
+suddenly ran into the street.  The fear came later when I      
+realized what could have happened.",fear,0.82316654920578,True
+sadness,When I learnt that I had been betrayed by my friend.,sadness,0.48359593749046326,True
+anger,When someone lies to me.,disgust,0.4170978367328644,False
+fear,"One night I had to bike home all alone after a party. Then I  
+found out that I was pursued by a man in a car.",fear,0.6759475469589233,True
+sadness,I didn't get the job I wanted.,sadness,0.7576194405555725,True
+fear,"Whenever I am alone in a dark room, walk alone on the street,  
+sleep alone in the room at night or see something which is only  
+partly visible.  This emotion was very strong when as an 8 year    
+old child I saw something horrible.",fear,0.49315789341926575,True
+anger,"Anger at doctors for their treatment of me after giving birth.  
+They left part of placenta behind and I bled heavily for twelve  
+weeks - due to this, I felt weak and emotional, and they said I  
+needed psychiatric treatment and give me no support.",sadness,0.6768566966056824,False
+disgust,Maltreatment of children.,disgust,0.67928546667099,True
+anger,"While playing a ball game, I was just about to make a goal when I  
+was thrown off my feet, and I failed to score the goal.",sadness,0.44999033212661743,False
+sadness,"At a lack of love of my father for my mum, sadness for him more  
+than anyone else because he does not realise how much love and  
+happiness there could be between them, and is, and how much he is  
+damaging himself apart from mum.",sadness,0.876311182975769,True
+joy,"My friend replying to my letter and again saying he was attracted  
+to me and suggesting we write, talk and get together and see how  
+things went and his suggestion that I could ring and doing that it  
+was really good - though really insane conversation.",joy,0.49312955141067505,True
+sadness,When my gradmother died.,sadness,0.8738936185836792,True
+fear,"The day I encountered a queer mamba face to face in a chunk of  
+leaves behind our house.",disgust,0.7416101694107056,False
+joy,"I was admited to the Chinese university of Hong Kong.  The day  
+the results were announced I looked in the newspaper and saw my  
+candidature number.",joy,0.40510115027427673,True
+disgust,"I was disgusted with a friend's behaviour when she got absolutely  
+drunk so that she vomitted all over my house.",disgust,0.7839938402175903,True
+anger,When my car suddenly broke down !,fear,0.758898913860321,False
+disgust,"I was sitting in school, waiting for my sister to go home. Suddenly a  
+boy put fire in a paper and threw it were I was sitting. The  
+paper didn't get me, but I felt terribly disgusted at this  
+cowardliness and irresponsibility that caused a great  
+discussion. We went to the director and he, drunk as always, said  
+that I was ... attention in school. I felt disgust of this  
+situation, and of the persons implicated in it.",disgust,0.6752467751502991,True
+fear,"I and my cousin went to a filmshow at night. We went without  
+making it known to my mother. While we were there at interval, I  
+came across my mother just close to where we sat.",surprise,0.27871033549308777,False
+fear,When I saw a large spider crawling up the wall.,fear,0.638075053691864,True
+anger,"Told by some people the class leader only choose his friends (not  
+true).",disgust,0.2470414936542511,False
+sadness,"Having to go back home form the U.S. after having been there for  
+ten weeks to visit my brother and his family.",sadness,0.6764295697212219,True
+disgust,"Was picking up my father from work and on passing through the  
+Valley watched three prostitutes walk up and down waiting for  
+someone to pick them up. Clothing was disgusting.",disgust,0.8476854562759399,True
+disgust,"I discovered some pornographic literature in a workmates drawers.  
+The literature featured pictures of naked women defecating on one  
+another.",disgust,0.7020242214202881,True
+fear,I do not recall being scared in the near past.,fear,0.699878990650177,True
+anger,"When my father asked me if I was a communist, at the same time he  
+made it clear that I should no longer see myself as his daughter.",anger,0.33218151330947876,True
+joy,"After my graduation exams I was waiting to get admitted to a post  
+graduation course, however the situation was not very favourable  
+for me and I was upset.  Suddenly, Bombay university offered me a  
+seat and I landed up in Bombay for my post graduation studies.   
+This happened last year and was very pleasant for me.",sadness,0.7618631720542908,False
+disgust,"I feel disgust at my neighbour, because she comes to our house with  
+her child, who spoils our furniture.",disgust,0.6963599324226379,True
+joy,A friend I had missed very much came to see me unexpectedly.,sadness,0.5377867221832275,False
+disgust,"I vividly remember having feelings of disgust toward some of my  
+jr. high classmates who didn't work at all on their schoolwork  
+and who would coplain and take my tax money when I was older and  
+more successful than they were. At the time I pictured some  
+adults like this that I knew in the complaining situation.",disgust,0.48573654890060425,True
+sadness,"When I didn't succeed to enter at the University, I felt that the  
+college entrance course sistem prejudiced me, that my integrity,  
+and effort weren't corresponded.",sadness,0.5416488647460938,True
+fear,"A terrible cloud-burst started when we were camping in a tent on  
+a great bald field.",fear,0.7325894236564636,True
+sadness,"My grandfather died, I went to the mortuary and saw the corpse.",sadness,0.7905780673027039,True
+joy,I got a present from a great friend (a dog).,joy,0.9499927759170532,True
+sadness,I got separated form my closest friend. He went to work abroad.,sadness,0.8776280879974365,True
+fear,"A ""near-accident"" in a car, driving too fast on an icy road.",fear,0.7767102122306824,True
+anger,"When my mother slapped me in the face, I felt anger at that  
+moment.",anger,0.3964836597442627,True
+anger,"I felt much anger when my fahter interferred in my relations with  
+another person whom I liked very much, ending something that I  
+adored.",anger,0.35341113805770874,True
+joy,The joy came when I first proposed a girl at Secondary School.,joy,0.9529414176940918,True
+fear,[ While approaching to test the situation.],fear,0.6243435740470886,True
+sadness,Death in the close family.,sadness,0.5643224716186523,True
+sadness,"I broke up with my boyfriend of seven months, but it was a very  
+""indepth"" relationship and so after feelings of grief and loss  
+were over I felt an immense sadness.",sadness,0.9294315576553345,True
+fear,"Afraid of getting alone without friends, without anybody.",fear,0.7085379958152771,True
+sadness,"My child passed away after a short illness when he was just  
+eleven months old. I was only told about his death without  
+knowing that he had been ill.",sadness,0.8528847694396973,True
+sadness,Watching suffering in Third World country.,sadness,0.7317343354225159,True
+anger,"I wanted to go to Bhopal for relief work (gas tragedy).  My boss  
+simply refused to let me go, I was so angry that the only thought  
+that came to my mind was to quit the job.",sadness,0.5102472901344299,False
+sadness,A girl I love does not love me.,sadness,0.8112546801567078,True
+sadness,"The death of my father, even though we had not been very close to  
+each other.",sadness,0.8268642425537109,True
+disgust,Whenever I see a spider or a snake I feel disgusted.,disgust,0.7544938921928406,True
+joy,"When my older sister told us that she was thinking of joining the  
+rest of the family for the winter sports holiday.",joy,0.6486053466796875,True
+joy,"After my marriage I received the B.Sc results by post, I was very  
+happy to learn that I had got very good marks - first class.",joy,0.9461453557014465,True
+anger,"My husband and I were invited at the house of our nieghbours then  
+we got an invitation on the part of my parents which we had to  
+refuse. A a result they called me by words that provoked my  
+anger.",anger,0.4947371780872345,True
+anger,"I remember that when I was in school I saw a case of partiality -  
+one of the teachers gave private coaching classes to some girls  
+and she would give these girls extra attention in class and would  
+ignore the others.",disgust,0.4384254813194275,False
+disgust,When I got to know the details if the famine in East Africa.,fear,0.4228034019470215,False
+anger,"Last week, my organization summoned an executive meeting and one  
+of the executive member's pointed out a loop hole in the  
+committee's administration.  He could not suggest any  
+improvements, so I quarrelled with him.",anger,0.5857580900192261,True
+disgust,"In my village there was this tax collector who used to cheat  
+people and collected more than was wanted, the surplus was for  
+his family and himself.",disgust,0.6969426274299622,True
+sadness,Finding out my best friend cannot go to the English lectures.,sadness,0.4458666443824768,True
+fear,"When I was a child, I fell into a cellar (when playing) and could  
+be freed only with big difficulties.",sadness,0.47066935896873474,False
+disgust,"When my friend, after a beer spree vomitted in my sitting room.",disgust,0.47994306683540344,True
+fear,"I was in a camp and went out for a walk at night on my own.  I lost   
+my way and spent several hours looking for the camp.",sadness,0.6300997138023376,False
+fear,"On May 20th I got a summon to appear in court on May 28th 1985 on  
+the subject of impregnanting a school girl. I really feared of  
+standing in the court in a few days time after this notice. I was  
+also embarassed due to formal approach that was expected of me to  
+the Principal.",fear,0.7072527408599854,True
+anger,"As I usually do not start learning until a short time before an  
+examination,, I once made up my mind to try to work for a longer  
+time. But once again I did not do it - and got a bad mark.",sadness,0.6953750252723694,False
+fear,"English papers are due on Friday. They are returned on Tuesday.  
+This Tuesday I was afraid to go to class and get my paper because  
+I knew it was bad.",sadness,0.4856586456298828,False
+anger,"When my sister took something that belonged to me without my  
+permission.",sadness,0.34452199935913086,False
+joy,"When we were able to afford a new sofa - a leather one which cost  
+SEK 20000.  I had waited for it for 2-3 years.",joy,0.30292758345603943,True
+fear,"Fear overwhelmed me when right against the car I was in I saw  
+another one, as if out of control of the driver.",fear,0.8649203181266785,True
+joy,"After I had made my debut at Ullevi against IFK, Gottenburg and  
+got a good write up in the paper.",joy,0.8112536668777466,True
+disgust,"I hate the behaviour of my so called friends, they use bad  
+language, spit, boast and treat the youngsters badly.",disgust,0.7915332913398743,True
+disgust,"I felt disgusted when I found out that someone had betrayed me.  
+That person had been dishonest with me and I felt used.",disgust,0.5062253475189209,True
+sadness,"The death of my guardian with whom I had stayed when I did my  
+grade six.",sadness,0.803063154220581,True
+disgust,"I was disgusted by my paranoid attitude towards myself, my  
+homework at university and disgusted about my lack of retention.  
+Especially in learning another language.",disgust,0.5445157289505005,True
+fear,"I was fearful when I realised that the relish was overcooked  
+simply because I was not keen enough at checking whether there  
+was still enough water in the relish or not, instead I was just  
+playing with my friends.",fear,0.6636089086532593,True
+disgust,"I feel disgusted since I am unable to cope with all the wordly  
+affairs as I spend much precious time to pursue my hobby and  
+to be admist the people I love and long to be with.",disgust,0.5038213729858398,True
+fear,"One night we were having a barbecue on the beach and I needed to  
+go to my car, which was far away from the beach.  It was very  
+dark as there were no street lamps.  I ran in the dark, very  
+scared, I ran as fast as possible.",fear,0.7771097421646118,True
+disgust,"When a close relative got quite drunk. It was a relative that I  
+had respected for a long time and looked up to as a child.",disgust,0.3455522954463959,True
+sadness,"My best friend had a relatively severe illness.  I was sad  
+because she was suffering.",sadness,0.923162043094635,True
+sadness,"When I didn't get a certain job at Lillehammer which I wanted  
+very much.",sadness,0.45271578431129456,True
+joy,When I knew that my husband and I were going to have a child.,joy,0.4379725754261017,True
+fear,"I was afraid when my boyfriend came home because my parents  
+disapproved him of his coming home. I thought they would chase me  
+out of the house.",fear,0.7251836061477661,True
+disgust,"When I was taking my girlfriend out, she seemed to have taken  
+her time.",joy,0.30596020817756653,False
+disgust,My father insulted by other people.,disgust,0.7242661118507385,True
+fear,When I almost walked on a snake.,fear,0.6130868196487427,True
+sadness,"So as to be closer to the university I have left home and moved  
+into Auckland. It now seems as if I have left home - especially  
+my family - forever.",sadness,0.7674618363380432,True
+fear,"Once I was alone at home. I suddenly felt unwell and there was no  
+one to help me and call First Aid.",sadness,0.5666517019271851,False
+anger,"My superior blamed me for some neglects at work in front of  
+others.  In fact, the task in question was not supposed to be  
+done by me.",sadness,0.6568167209625244,False
+sadness,My father left us for another woman.,sadness,0.7353551983833313,True
+fear,Before an exam.,anger,0.2984047830104828,False
+anger,"When a very close friend with whom I have a very intimate and  
+bodily relationship (he had a girlfriend) started to avoid me and  
+didn't want to talk to me any more.",sadness,0.44290095567703247,False
+disgust,"When I went in a clinical hospital and saw in what conditions  
+people are attended there.",sadness,0.3397822976112366,False
+fear,"When I heard a rumour that the 1st year exam results were out. I  
+had fear that I might be one of the failures.",fear,0.7735474109649658,True
+sadness,"I felt sad when a thief stole all the clothes from my friend's  
+cupboard at school (boarding).",sadness,0.845552921295166,True
+fear,"My husband suddenly fell ill seriously and during the medical  
+examinations we did not know what would follow.",sadness,0.7119415998458862,False
+sadness,When the girl I loved turned me down.,sadness,0.790485143661499,True
+joy,"I did a solo flight from Ardmore to Kaikohe before I got my pilot  
+licence. I can remember it was gorgeous day and I was on a  
+natural high, cruising up the coast with my maps and compasses  
+and gear. Other pilots had seen me off and wished me good luck  
+and it was a real adventure.",joy,0.9459492564201355,True
+fear,"At night when I was alone at home (all the family members usually  
+get together at that time) someone knocked vigorously on the  
+door.",fear,0.4679439663887024,True
+anger,"I went singing with a group of young people on January 6th (The  
+three Magi), a local custom called ""star singing"". One of the girls, my  
+girlfriend, broke the star. Being the accompanying person, I felt very  
+angry thinking of the consequences.",sadness,0.4653432071208954,False
+sadness,When I came back from my holidays.,sadness,0.5047290921211243,True
+sadness,"A close acquaintance of the family died of lung cancer.   
+Although it was expected, I still felt depressed.",sadness,0.9267991185188293,True
+disgust,Finding out some people had been talking about me at my back.,fear,0.4940046966075897,False
+disgust,"One day my friend told me that she had heard that I was moving  
+about with her boyfriend. I was disgusted with the news.",sadness,0.4891478717327118,False
+anger,"When my mother decided to clean out my room and throw out what  
+she thought was junk, without my knowing about it, so I returned  
+home to find half my stuff gone.",sadness,0.5085781216621399,False
+disgust,"When some people, including me, are treated in a way which  
+equates them to an animal or a thing.",disgust,0.7123365998268127,True
+anger,"At having an argument with a stranger, in the street.",anger,0.4594556987285614,True
+anger,I was told to do something I did not want to do.,anger,0.34227925539016724,True
+sadness,"When I was eight years old my father was run over by a car. When  
+I saw his body I was sad beyond words.",sadness,0.9111098051071167,True
+fear,"One day during our clinical practices, we had a very ill patient.  
+Unfortunately the patient passed away. I had seen him dying and  
+it was the first experience. During the night I became afraid  
+fearing the dead body.",fear,0.6411088705062866,True
+anger,"When I was deputy manager during the Summer, certain deputies  
+took liberties, more than what was normal.",anger,0.21409296989440918,True
+joy,"When I was informed that a short story I had written had been  
+accepted for publication.",joy,0.5116473436355591,True
+disgust,"When after a storm in the country, I left my shelter and saw a  
+big, fat, slimy green toad by my side.",disgust,0.7133179306983948,True
+anger,"I had an appointment downtown, and the person in question was  
+half an hour late.",anger,0.2840850055217743,True
+joy,"""Boy, you have been admitted to the medicine school and your  
+uncle is coming back fron Canada next week,"" my father told me  
+and it was a happy moment.",joy,0.9512695670127869,True
+joy,Got a present from my friend for my birthday.,joy,0.9274964332580566,True
+disgust,"After joining my M.A in Social Sciences, I appeared for the first  
+semester exam.  I failed one of the exams, and when I looked at  
+my results I felt disgusted and then I got angry.",sadness,0.4889674484729767,False
+sadness,"When a close friend took leave of me, because she went to Israel  
+for one year.",sadness,0.8373993039131165,True
+disgust,"A dirty person, smelling bad and unknown laying on me.",disgust,0.8098049759864807,True
+fear,"When I almost ran over a small boy who suddenly was in front of  
+my car.",fear,0.6965456604957581,True
+sadness,"Some students whose English is worse than mine can go to your  
+lectures (English lectures).",disgust,0.592275857925415,False
+anger,"I went to the school library and asked for a book, but the  
+librarian told me that there wasn't such. However when an other  
+colleague asked for it she gave it to him.",surprise,0.2538543939590454,False
+fear,"I went to see a movie and I went with a friend, it was really  
+frightening and it made me stop and think about the world around  
+me and what it is really like out there. I was frightened all  
+that night.",fear,0.7604469060897827,True
+fear,"I received a phone call from a high school friend whose younger  
+sister studied with me at the University and gave me a lift every  
+moning. She was going to get married to a guy whom I knew too and  
+who had died when he fell from a building, I was afraid to lose  
+somebody since I had already lost a brother in an accident.",fear,0.5255385637283325,True
+anger,Same situation as before - having my car stolen.,fear,0.6592419743537903,False
+disgust,"I deliberately avoided a person who I wanted to hurt, and who  
+wanted to talk to me.",sadness,0.39936840534210205,False
+fear,When I went to my first dental appointment.,sadness,0.3838973939418793,False
+anger,"When I was doing my last year at Secondary School I was robbed of  
+my clothes, wristwatch and my pair of shoes. After investigations  
+it was found that all the things were stolen by one of the boys  
+in our hostel.",fear,0.4876832365989685,False
+sadness,"When a close relative of mine passed away, it was the first time  
+that someone so close to me had died.",sadness,0.8373808264732361,True
+disgust,"When my parents-in-law scolded me, without any reason, in front of the  
+other members of my family for the first time.  They had called  
+me from my room where I had been studying for my exams.",anger,0.49974703788757324,False
+anger,"When I was in form 3, my aunts lied to my daddy telling him that  
+I had told them that I was pregnant.  My daddy  told my mother  
+and she asked me if it was true.  I was very angry with my aunts.",sadness,0.5917191505432129,False
+joy,"When I began to date a boy with whom I am till now. This was 16  
+months ago.",joy,0.30897238850593567,True
+disgust,"Disgust with myself for consistently making foolish errors in  
+communicating with others (asking for 1/2 Kg of nuts when I only  
+wanted 50 g).",disgust,0.41957738995552063,True
+joy,My old friend visited me in the university.,joy,0.7221066951751709,True
+disgust,"My first day to work in hospital, when I was dressing wounds I  
+was disgusted when I came across one wound with a very bad smell.",disgust,0.6044365763664246,True
+joy,I was admitted to the University and a niece was born to me.,joy,0.9097650647163391,True
+disgust,"I felt some disgust for my boyfriend for a time, after he had  
+left me.",sadness,0.5751628875732422,False
+disgust,Someone called me a disgusting nickname.,disgust,0.8073775172233582,True
+joy,"When I had a psychical crisis, I met a girl, who told me that she  
+had had almost the same problems and how she had finally overcome  
+them.",sadness,0.6477516293525696,False
+disgust,"On TV I saw a report about church in Amerika. A priest was shown  
+who was performing miracles in front of the camera - I felt  
+disgusted.",disgust,0.6721847057342529,True
+disgust,"When the N.Z. rugby union announced that they would proceed with  
+a rugby tour of South Africa.",joy,0.34472572803497314,False
+sadness,"Loneliness, being uncertain of myself in the Autumn.",sadness,0.8982489109039307,True
+joy,"When I meet old past pupils of mine - and find they are all doing  
+well - I feel joy. Yesterday I met a young woman (20 yrs) I'd  
+taught her at 6 yrs, then at 12 yrs and hadn't seen her for last  
+3-4 yrs; she was no longer a waitress but a meter maid for  
+Council.",joy,0.9184717535972595,True
+fear,"When a good friend of mine behaved in a very cool manner to me  
+for a very long time.",joy,0.9033980369567871,False
+fear,In the dark an unreal figure formed by a shadow.,fear,0.6159803867340088,True
+fear,"Walking home at night after university - part of the way, there  
+are ano lights and I am walking down a thoroughfare with the  
+thouth of no one hearing me if I have to scream.",fear,0.38942334055900574,True
+sadness,When my grandmother died.,sadness,0.8387444615364075,True
+anger,"When our government decided to withdraw student allowances as it  
+was one of the conditions imposed by the IMF.",fear,0.3202766478061676,False
+disgust,"When I went to the clinic for a medical check-up and saw the way  
+the lecturer was conducting the lecture and the kind of responses  
+he got from the patients.",surprise,0.38093459606170654,False
+joy,"My friend took me to Civo Stadium to watch and listen to the  
+music of the International singer Sam Mangwana. I had no hope of  
+going there since I had no money so he gave me the money for  
+admission.",sadness,0.4343149960041046,False
+fear,"I felt fear when once I was asleep and dreamed that I was dying  
+asfixiated by a cardiac attack, I was afraid and woke up  
+desperate. Altough I wasn't afraid of death I was afraid.",fear,0.8139967918395996,True
+fear,"I was living in rooms in a very lonely, quiet neigbourhood.  
+During the night it was very silent and this frightened me. The  
+fact of being alone in that house frightened me.",fear,0.6825012564659119,True
+disgust,Seeing a person panhandling money on Telegraph.,surprise,0.4728381931781769,False
+joy,Always when I am well succeded.,joy,0.40978795289993286,True
+anger,"My father began to say incoherant things concerning my brother's and  
+my own behaviour towards him.  His biased (authoritarian) and  
+ridiculous point of view made us angry.",disgust,0.668644368648529,False
+joy,"When I heard that a good friend, who had been abroad for a long  
+time, would come and see me.",joy,0.7124131917953491,True
+disgust,The event which got me angry got also an aversion in me.,sadness,0.27930983901023865,False
+anger,"Last year I had a friend visiting me for several days. The only  
+thing he did was sleeping, drinking, taking pills and thinking  
+only about himself.",sadness,0.7560387253761292,False
+anger,"When the Real Madrid football team lost against the inter in the  
+U.E.F.A cup.",fear,0.24819083511829376,False
+sadness,"I had to give up my love, because it did not work out well.",sadness,0.9101569652557373,True
+fear,"In 1960,  I was going to a school which was near my village and I  
+met a lion on the way, which disappeared suddenly.",fear,0.5249105095863342,True
+sadness,"At one point in a relationship, my boyfriend was seeing an old  
+flame more than me. At our confrontation tears were shed.",sadness,0.8207383751869202,True
+fear,"I watched a very terrfying film in LT2.  This film really pushed  
+my heart out of my body and I was forced to go out before the  
+second reel ended.",joy,0.7192549705505371,False
+anger,"When my father banned me from going to his sister's home due to  
+some misunderstanding between the two.",anger,0.5203186869621277,True
+anger,"The comrade staying next doors insulted me for what he called   
+the misuse of his iron.  He called me stupid, self centered etc.   
+I wanted to punch him but instead went for a walk to the mining  
+school to cool off.",disgust,0.6934695839881897,False
+joy,When I gave birth to a healthy boy.,joy,0.8493521809577942,True
+joy,"When I spoke to my daughter and wished her luck for the  
+examinations she was about to take.",sadness,0.46131154894828796,False
+fear,"When I entered the dissecting room for the anatomy class and saw  
+several dead bodies lying on the benches.",fear,0.6092410683631897,True
+joy,"When my boyfriend came form Rumphi to Lilongwe for a visit I was  
+very happy to see him and couldn't believe it was him with me.",joy,0.8520127534866333,True
+disgust,"When I opted for my research field, for them the percentage of  
+marks was more important than my knowledge.",anger,0.30549049377441406,False
+disgust,"Right now I volunteer at a hospital. Yesterday, Halloween, I  
+dressed up as a doctor and went to work. The volunteer  
+coordinator told me after my shift that it was dangerous to have  
+done what I did.",fear,0.6338209509849548,False
+anger,"When a boy who was drunk came into my room and misbehaved in the  
+presence of my boyfriend.",disgust,0.7731096148490906,False
+disgust,"When I was younger I often saw my father come home drunk (he had  
+big problems at that time). Once he woke me up in the middle of  
+the night and shouted at me.",sadness,0.3762092888355255,False
+joy,"I thought that someone was angry with me but, by hindsight, that  
+didn't appear to be the case, he even liked me.",sadness,0.3255693316459656,False
+disgust,Disgust with drunk people.,disgust,0.7871201634407043,True
+fear,"When my relatives and I were in a car going slowly on a frozen  
+road.",fear,0.4317353665828705,True
+anger,A typical family argument.,anger,0.5751843452453613,True
+anger,"My younger brother destroyed and gave away some of the books that  
+I had intended to keep for as long as possible.",sadness,0.5552029013633728,False
+sadness,After the fact that made me ashamed I felt sadness.,sadness,0.9097341895103455,True
+disgust,"I felt disgusted when my appointment to meet the E.N.T.  
+specialist had been turned down. The specialist came from U.K.  
+and went the same day and we do not have one.",disgust,0.3516238331794739,True
+disgust,When I worked at the life-saving sevice and saw the first exitus.,surprise,0.2901395857334137,False
+disgust,"I saw someone that I thought I knew repeatedly drunk. I do not  
+like to be around alcoholics.",disgust,0.6045887470245361,True
+anger,"While in the army, I was treated unfairly by my superiors.  I was  
+held responsible for a deed of which I was innocent.",disgust,0.3786655366420746,False
+sadness,A close friend of mine had not contacted me for a long time.,sadness,0.649459183216095,True
+fear,"When I heard that there is teasing and bulling at Secondary  
+School.",disgust,0.6249136328697205,False
+fear,"When I wanted to go into a house, there was suddenly a big dog  
+standing beside me. It was hardly moving, but I did not know how  
+it would react later on.",fear,0.6377730369567871,True
+fear,"I felt the above condition when I took my brother's bicycle to a  
+market and unfortunately the bicycle was stolen and I didn't know  
+how I could tell the owner about the stolen bicycle.",fear,0.6204337477684021,True
+joy,"When I was notified that I had been accepted as a Psychology  
+student.",joy,0.3560073971748352,True
+disgust,[ When some people act very important in any situation.],fear,0.41036131978034973,False
+fear,Watching a horror film.,disgust,0.3340635299682617,False
+fear,A certain night during initiation.,anger,0.18900933861732483,False
+joy,"It was the first time that I gave a birthday present to my friend.  
+  She wrote me a letter as she is my girlfriend.  The content of  
+the letter was so sweet that it made me feel very happy.",joy,0.9593215584754944,True
+anger,"I reached the bus stop and realized that I had forgotten my bus  
+pass.",sadness,0.4742580056190491,False
+fear,"The house was on fire, and I was saved by the dog. I am afraid of  
+the fire, verging on panic.",fear,0.8656827807426453,True
+sadness,My good friend misunderstood me.,sadness,0.4663228392601013,True
+disgust,Helping older people on the toilet.,joy,0.5271575450897217,False
+anger,When one is unjustly accused of something one has not done.,disgust,0.5243638753890991,False
+sadness,"The thought of having to read a boring book of 400 pages in  
+English.",disgust,0.4874475598335266,False
+fear,"I was walking along the passage to my room (very near the anatomy  
+laboratory) and I heard something and felt that there was some  
+thing behind me.  I looked back and there was no one.  I started  
+imagining that maybe it was a corpse.",fear,0.6482034921646118,True
+sadness,"Feeling unable to preserve one's ideas and ambitions as innocent  
+as they are when you are young.",sadness,0.4887106120586395,True
+fear,"After I was thrown out of a car in an accident, this resulted in  
+a fracture.",sadness,0.6652258038520813,False
+anger,"It was in March 1985 when one of my fellow students borrowed my  
+wristwatch and after sometime he broke a glass of that watch I  
+got angry when he was telling me but the anger didn't take long  
+to fade.",sadness,0.4333997368812561,False
+joy,"When my friend told me that he would come and meet me in a  
+moment.",joy,0.3329400420188904,True
+joy,When I found out that I can travel with my best friend.,joy,0.4490402936935425,True
+sadness,When I try to get closer at a person and she misinterpreted me.,anger,0.3145759105682373,False
+sadness,"My cat was sick and I had to take him to the vet to be put down -  
+no one else there to do it.",sadness,0.8168090581893921,True
+joy,"I felt happy at the settlement of our marriage, even though we  
+are from different socio-linguistic backgrounds our parents  
+agreed to the wedding without any conflict or discussion.  We had   
+thought that they would object to the wedding but it did not happen.",joy,0.4980175197124481,True
+disgust,Finding a hair in the soup.,surprise,0.29712623357772827,False
+sadness,"When I think that I will probably never have a genuine contact  
+with my parents.",sadness,0.7295352220535278,True
+anger,"When a boy, who was drunk, insulted me in front of a crowd.  I  
+was stopped from punching him for it.",disgust,0.6372896432876587,False
+joy,"I was filled with joy when I heard that I had passed my Secondary  
+school leaving certificate exam.",joy,0.9337970614433289,True
+disgust,A saturday night a bus full of drunken people.,disgust,0.7629324197769165,True
+sadness,"When I knew that a person that I liked very much didn't react the  
+way I would like to, even that I knew about his feelings for me.",sadness,0.46753227710723877,True
+disgust,"Every time I meet a certain person. We cannot get on well  
+together, we dislike each other.",sadness,0.34252649545669556,False
+joy,I made dinner for some friends and they appreciated it very much.,joy,0.9624584913253784,True
+joy,"One night, at a friend's place I realized that I had everything I  
+most wished, around me.",joy,0.7205523252487183,True
+joy,Won a prize for effort.,joy,0.8977988958358765,True
+sadness,"The sadness came to me when I heard that my girlfriend whom I  
+loved so much got married to another man before a rebuff from  
+her.",sadness,0.9297769069671631,True
+anger,I felt very angry after one driver had run over my beloved niece.,fear,0.4372811019420624,False
+fear,"Walking at friday night through Nijmegen, going to a pub or a  
+disco.",joy,0.33903759717941284,False
+anger,When friends try to put me down or hurt me.,fear,0.5756787657737732,False
+sadness,"I had had a farewell party at the place where I had been working  
+for a year.  That night I could not fall off to sleep.  I was sad  
+thinking that I would not see my nice fellow workers again.",sadness,0.9289225339889526,True
+fear,"My illness a few years back.  I was sevely down with malaria and  
+asthma, I had lost my health, charm and cheerfulness completely.",sadness,0.893101155757904,False
+fear,"I was walking alone along the place where people fear that there  
+are always thieves there and the people who kill their friends  
+during the night two months ago.",fear,0.718033492565155,True
+anger,"My boy-friend came home late one night without having told me  
+about it before.",sadness,0.4111149311065674,False
+fear,"While swimming, I hit my head at the bottom of the pool and  
+required stitches. I later learned that the consequences could  
+have been much more severe and that terrified me.",fear,0.7017014026641846,True
+sadness,"My paternal grandmother had died. We weren't close but she was  
+blood. I didn't cry but I was sad, partly due to her death and  
+partly I think, due to the fact that I couldn't/didn't cry.",sadness,0.9164004921913147,True
+joy,"A quarrel was followed by the decision of leaving a person close  
+to me. Several days later my regret was great. I was beside  
+myself. Quite unexpectedly he came and the conflict was calmly  
+solved. I was glad at the possibility to be with him.",sadness,0.4438924193382263,False
+disgust,"In Punjab, when in the name of religion people killed each other  
+during the agitation.",fear,0.5583848357200623,False
+joy,Day I received my T.E. score and acceptance into my chosen course.,joy,0.5869242548942566,True
+sadness,"I met again a very good friend after a year and realized that  
+there had grown a certain distance between us.",sadness,0.6096130013465881,True
+anger,Being told that I am a stupid person.,disgust,0.5186059474945068,False
+fear,"After my shoulder operation, I woke up in the hospital room  
+alone. I was in pain and was still under heavy medications. I  
+could not find my parents.",sadness,0.6852416396141052,False
+disgust,"I had some sort of a stomach virus last week and  I vomited in  
+college in the morning, then in the cake shop, three times during  
+the trip home and again when I got home.",sadness,0.6105301380157471,False
+anger,"My elder brother often criticizes my mother's cooking.  Once he  
+did it very impolitely and lost his temper.  This made all of us  
+very sad.  I was very angry and I scolded him.  He asked me not  
+to interfere with what was his buisness.",sadness,0.3887869119644165,False
+anger,Being mistreated by other people.,disgust,0.6632314324378967,False
+disgust,"I once saw a programme on TV describing how certain wild life  
+films were made and was disgusted by the treatment of certain  
+animals in this particular programme of the polar bear.",disgust,0.7919182777404785,True
+joy,"I was given a gift by my sister. There were many pleasant things  
+in this parcel.",joy,0.9643406271934509,True
+fear,Before important sports events.,anger,0.21760237216949463,False
+anger,"Brother continually interupting while I was talking on the  
+telephone.",fear,0.35082048177719116,False
+joy,When I learnt that I was selected for form I.,joy,0.3929789066314697,True
+joy,"Day before yesterday my mother bought me a new pair of shoes,  
+without my having asked for them.  She told me that when she saw  
+the pair of shoes she felt like buying them for me.  I really  
+liked the shoes and they made me feel that my mother cares for  
+me.",joy,0.8535344004631042,True
+anger,"My mother read a letter that a friend of mine had written to me  
+telling me how she had got drunk the last time.",sadness,0.6139016151428223,False
+disgust,"When an acquaintance (he was drunk) of my room-mate vomitted on the kitchen  
+carpet.  It was past mid-night and my room-mate had just moved in,  
+this acquaintance had helped her move in.",disgust,0.6587154865264893,True
+anger,"When a so-called friend let me down, when she promised to tell me  
+when a certain concert was occurring, and that she'd get me  
+tickets. I was really looking forward to it. She did nothing,  
+just told me out of the blue one day what a fantastic concert it  
+was going to be.",joy,0.9175626039505005,False
+sadness,"My close friend and I applied to TISS for admission last year,  
+unfortunately he failed to get admission.  We had done our graduation  
+together and are quite involved with each other, so we had wanted  
+to do our Masters degree together.  However, it did not work out  
+as we had expected it to and this saddened me.",sadness,0.8769245743751526,True
+fear,Assaulted by drunken neighbour.,disgust,0.6174442172050476,False
+disgust,"I felt dusgust with a self-iterested person who ruined the life  
+of another by means of utterly unfair methods.",disgust,0.7995712161064148,True
+fear,"I bet that I would jump down from a window. I was sure that I  
+would jump but before I did it I rather felt fear.",fear,0.8342421054840088,True
+fear,When I come home late at night.,sadness,0.46249160170555115,False
+disgust,"When I failed the grade 7 twice and only passed it the third  
+time.",sadness,0.6639838814735413,False
+anger,A friend started to shout at me. He called me an old frump.,anger,0.4471942186355591,True
+sadness,"For the girl who halped me go on living and made me happy - when  
+I don't see her even for two or three days.",joy,0.651191771030426,False
+sadness,When my grandparents moved to another part of the town.,sadness,0.5298832654953003,True
+fear,Walking in the dark I saw something strange.,fear,0.5896909832954407,True
+disgust,Deception from a person I loved very much.,disgust,0.6823655962944031,True
+disgust,When one of my friends started misbehaving.,disgust,0.32868072390556335,True
+sadness,"I was very sad when I heard that my uncle had passed away  
+untimely at home.",sadness,0.9244106411933899,True
+anger,"When I saw a man hitting a child of 2 years without any consideration,  
+simply because the child had been leaning against a window.",fear,0.41552993655204773,False
+disgust,"Being in a Malaysian city with my girlfriend coming out of a  
+picture theatre - seeing her rush up to a taxi that a very old  
+sick man was trying to get to. Seeing her take over the taxi.",sadness,0.34281760454177856,False
+anger,"I had not eaten anything for 2 days to be able to pay the fine  
+for my fiancT. But he stayed in another town and spent one  
+thousand shillings in the restaurant during the same time.",sadness,0.338290810585022,False
+anger,"Finding out that some students are getting good reports they do  
+not deserve.",sadness,0.2844882309436798,False
+sadness,"A relationship in which I had put my trust, broke up.  I was sad  
+when I realized how easy it is to forget something that one had  
+once regarded as great and significant.",sadness,0.9193241000175476,True
+joy,When I passed the grade 7 exam.,sadness,0.31630656123161316,False
+fear,"I was approaching my exam time and my books got stolen.  I was in  
+a panic as I thought that I would not do well enough to be  
+considered for the economics quota.  I cried a lot but that did  
+not help and as the exam day came near a strange fear gripped me.",fear,0.6888163685798645,True
+sadness,"I felt sad with the two situations I described before. The cat  
+and the school. Sadness was intermingled with the other feelings.",sadness,0.9211769700050354,True
+anger,"Some foreign students playing loud music before the biology  
+examn.",disgust,0.36928945779800415,False
+anger,"I bought a new bed for my apt. and it squeaks when you move on  
+it. I tried to fix it but could not.",sadness,0.539249837398529,False
+joy,"When I received my TE Score and my acceptance from University -  
+it had been a goal since I left the bank a year earlier.",joy,0.5818910002708435,True
+sadness,"One of my good friends had to migrate to America.  Our friendship  
+had developed quite well and it was a pity as our friendship would  
+fade.",sadness,0.9171850085258484,True
+anger,"My parents did not approve my choice of a boyfriend (now an  
+ex-boyfriend).  He happened to be 13 years older than me and he  
+was considered completely unsuitable for me.  IDIOT.",disgust,0.663995087146759,False
+disgust,"I had a very good friend (boy) and I thought I could rely on him  
+but he behaved badly with a girl who used to trust us completely.",sadness,0.8200762271881104,False
+joy,"When I read the newspaper that morning I found my candidature  
+number on the admission list of the Chinese university.  I was  
+satisfied and happy and the cumulative anxiety disappeared.  I  
+only wanted to cry out that I had succeeded.",joy,0.7526512742042542,True
+sadness,A close friend died.,sadness,0.9135192632675171,True
+disgust,"I was in a train when a woman started talking loudly and  
+attracting everybody's attention.  The worst thing was that she  
+was discussing something, about which she knew nothing, with another person.",fear,0.6209031939506531,False
+joy,"I was very pleased and happy when my older sister came home from  
+living somewhere out of town and I hadn't seen her for months. We  
+are very close sisters.",joy,0.9478330612182617,True
+disgust,"When I saw several people washing their car with water from a  
+drain.",surprise,0.26665177941322327,False
+anger,When they changed my office to another room without my agreement.,anger,0.5017680525779724,True
+disgust,Spit and vomit.,disgust,0.8089700937271118,True
+fear,An inter-college basket-ball match.,joy,0.8265628814697266,False
+disgust,A rich man expressing disgust towards an alcoholic.,disgust,0.7800874710083008,True
+anger,"When during Winter the water pipes froze and we did not have any  
+water for two days.",sadness,0.6360552906990051,False
+fear,"I was about to begin a journey in a car with an acquaintance of  
+mine.",joy,0.4657061696052551,False
+fear,"A fear from the loss of a close friend as a result of his  
+behavior.",fear,0.636399507522583,True
+disgust,"Father said: If you are pregnant, you will have to procure  
+abortion. I was filled with disgust against my father.",disgust,0.4604974687099457,True
+fear,"Having quarreled with a boyfriend, he threatened to leave me.",anger,0.3165397644042969,False
+sadness,When a friend died.,sadness,0.8685899376869202,True
+sadness,"When I found out that I could not go to the concert (after buying  
+the tickets) because of a biology test which occurred the morning  
+after.",sadness,0.625067412853241,True
+joy,When I got the loan for my studies.,sadness,0.38286328315734863,False
+joy,"On my birthday, an old friend of mine sent me a card. I had not  
+met him for a year and I was very glad that he had thought of me.",joy,0.9271358847618103,True
+sadness,When I heard the news of my grandfather's sudden death.,sadness,0.5920207500457764,True
+anger,"I felt very angry when a mishanga seller robbed me of the  
+transport money I had to go to school.",fear,0.3819504380226135,False
+disgust,"A drunkard fell, started bleeding and wet himself.  Disgust that  
+turned into sadness-unpleasantness.",sadness,0.6894347667694092,False
+disgust,"I was at the table at a French friend's house.  They served me a  
+big dish with roast cauliflower and sauce.  I had to eat it.",joy,0.8631008267402649,False
+disgust,"Reading about executions and massacres which happened during  
+World War II, I felt disgust towards those who did it.",sadness,0.5325990319252014,False
+sadness,"When I am alone in a room with no contact with anyone -  
+loneliness drains me.",sadness,0.8770368099212646,True
+fear,"The shooting started and we all lay down to protect ourselves  
+from the flying bullets.  This incident occured on our way to  
+Feira, during the Zambia army patrols in the Rhodesia war.",fear,0.7821809649467468,True
+joy,"I was very happy when I passed and went to form I.  It was a  
+great relief for me as I had been very worried considering the  
+large number of pupils who fail.",joy,0.8945741653442383,True
+fear,"I studied medicine for several semesters and at that time I  
+developed a great fear of examinations. I was most afraid of my  
+examination of anatomy. While other students were examined, I was  
+dissecting. I was able to hear everything and was waiting with  
+fear until it was my turn.",fear,0.8204343318939209,True
+joy,"Coming to this lecture and listen to you talking about feelings,  
+I am so happy that foreigners have the same feelings as Chinese.",joy,0.9514257907867432,True
+joy,When I was successful at my work I was full of joy.,joy,0.9599066376686096,True
+fear,"When I was travelling home by bus and suddenly the bus hit and  
+the bus leaned against a wall.",fear,0.698586106300354,True
+disgust,My roommate messing up our room.,disgust,0.35593393445014954,True
+fear,"I was at the seaside and my brother disappeared for a couple of  
+hours.",sadness,0.7623453140258789,False
+anger,Doing this pointless questionnaire.,disgust,0.648440420627594,False
+fear,Every time I went home with my school report.,sadness,0.49947553873062134,False
+sadness,When I failed my Standard 8 Examination for the first time.,surprise,0.29040712118148804,False
+fear,"When I was ten I got shut in the school with a friend.  I had to  
+jump out of a window and cross a beam 10 metres high.",joy,0.4321569502353668,False
+sadness,"Tonight in bed when I realised how bad my relationship with my  
+friend was.",sadness,0.8796519041061401,True
+sadness,My teacher's death.,sadness,0.8343204855918884,True
+disgust,My roommate's lack of consideration of me.,sadness,0.4166947305202484,False
+fear,I could not do the questions on my math midterm.,sadness,0.613743245601654,False
+joy,Got a big fish in fishing.,joy,0.8910372853279114,True
+disgust,"I once got a phone call stating ""one of your friend is in jail,  
+please come and see him"".  When I went to the jail and saw him, I  
+was disgusted.",disgust,0.5247374773025513,True
+anger,"I told my friend something confidential which was supposed to  
+remain between the two of us.  The next thing that happened was  
+that a girl who is not even close to us came laughing and askad  
+me to tell her about it.  I was very angry with my friend as I  
+had trusted her.",sadness,0.49813657999038696,False
+joy,Getting back with my boyfriend after a year away - apart.,joy,0.599884033203125,True
+sadness,"Last year when I worked during the Summer holidays and studied  
+at the same time for an examination I had to repeat; my boyfriend  
+went to Greece for a holiday for a month.",sadness,0.5293056964874268,True
+joy,"When I heard that I had got the best result in school and would  
+be definately selected to the university of Zambia.",anger,0.2930603325366974,False
+disgust,"A person I know who tells lies and so pretending to be better  
+than she is.",disgust,0.6859126091003418,True
+anger,"A certain friend tried to push me off a seat in a very violent  
+way for no apparent reason.  It may be that he was excited about  
+something.",fear,0.644488513469696,False
+joy,"One Saturday afternoon, I deliberately dressed up nicely (I had  
+been in a bad mood of late).  I hoped to go for a walk in the  
+soft sunlight to try and uplift my spirits.  When I was having  
+lunch in the canteen, two of my male classmates asked me as to  
+why I was dressed so nicely (they had seldom joked with me  
+before).  One of them said that he had a lounge suit and we would  
+look very nice if we wore them together.",joy,0.6677978038787842,True
+anger,"I felt angry when I was told that I had not been selected to go  
+to the University.",sadness,0.6145855784416199,False
+joy,"When I came again in contact with a girl I liked very much. And  
+most important she also liked me.",joy,0.9019315242767334,True
+joy,"When my son returned from mountaineering - healthy in body and  
+soul.",joy,0.9125365614891052,True
+fear,"One day, early morning my mother who is healthy fell ill.  There  
+was no doctor or compounder near by and for a few hours -8 A.M to  
+6 P.M she did not speak a single sentence, nor did she drink water  
+or  milk.  There was no movement in her body and I felt really  
+scared.  I almost lost my confidence about her survival.",fear,0.5400353074073792,True
+fear,"When the car I was driving skidded on an icy road and landed in    
+a ditch with one side against a rock.",fear,0.6860256195068359,True
+anger,"In a tram, the ticket seller was commanding, taking the role of a  
+leader, trying to emphasize her non-existent authority with undue  
+strictness towards a good-humoured drunk who could not find his  
+ticket at once.",disgust,0.7142683863639832,False
+anger,During a fight with my best friend.,fear,0.36420902609825134,False
+disgust,"When I saw a lady putting on a pair of trousers, I felt it was a  
+disguise according to Malawi culture.",surprise,0.47121018171310425,False
+anger,"I was sleeping nicely until in the middle of the night when I became  
+awake because a friend called me for some (in my opinion)  
+nonsens reason.",joy,0.4802953600883484,False
+anger,"I made an appointment with a friend to drink coffee togehter.  
+However, for the third time in that week she arrived an hour too  
+late.",sadness,0.457470178604126,False
+disgust,"I am disgusted with the fact that bad singers play at the opera  
+(and not only there) only because they are protegTs or lovers of  
+an important felow while at the same time some young and able  
+singers work in a quite different field of life.",disgust,0.7380043268203735,True
+joy,"When I saw that I had passed the university entrance exam.  It  
+made me forget all my problems.",joy,0.7853450179100037,True
+anger,"Stopped at a Fast Food shop with friends and a few locals wanted  
+to fight us for no apparent reason. They hit and picked on one of  
+my friends.",fear,0.5786416530609131,False
+disgust,Robbery mentioned under sadness.,sadness,0.6040915250778198,False
+disgust,"When people are eating unsavoury (smacking, belching, speaking  
+with food in their mouth, etc.).",disgust,0.8249621391296387,True
+fear,"I was in a train where a fight occurred. One person who was there  
+opened his handbag and took out a gun, another who fought too  
+looked among his things for a weapon to fight.",fear,0.7355083227157593,True
+sadness,When I was accused of neglecting work for the wrong reasons.,sadness,0.3714027404785156,True
+anger,"When I realized that I was far behind the others in the language  
+course and I could no longer catch up with the others.",sadness,0.46549612283706665,False
+anger,"I was in the library of medical psychology and walked into the  
+wrong direction. A man who came out of a room threated me very  
+denigrating and I became very angry in a resisting manner.",fear,0.614962637424469,False
+sadness,"A good friend quitted me after he had behaved in a strange  
+manner.",disgust,0.41691234707832336,False
+sadness,When I had to come back from my village last Christmas.,sadness,0.5518998503684998,True
+fear,"While he was drunk, my life partner tried to hit me.  I felt  
+scared and fled to the bathroom.",fear,0.7502861022949219,True
+fear,"At the tender age of eleven a friend and I left a party and  
+proceeded to walk through dark and secluded streets of a bad  
+neighborhood to find a telephone (recent spate of Horror Movie  
+watching had occurred).",disgust,0.31003305315971375,False
+disgust,"A female friend was violently ill on the return journey from a  
+wedding reception we attended. Getting her out of the car when  
+home took quite a while.",sadness,0.6960340142250061,False
+fear,"I'm afraid of driving on the special seat of a mororcycle, mainly  
+with certain colleagues who by exces of self-confidence drive  
+beyond limits or measure in the traffic and the main victim is  
+always the person who sits behind the driver.",fear,0.7416903972625732,True
+sadness,When boyfriend could not stand up to his mother or for himself.,sadness,0.33664029836654663,True
+anger,"When a friend carelessly broke and object in my parent's house  
+and did not apologize, or pay, or anything.",disgust,0.5020355582237244,False
+disgust,"In a disco, there was a dirty little chap who punched my bottom.",disgust,0.8294985890388489,True
+sadness,Finding out that China is still backward in science.,fear,0.27909111976623535,False
+disgust,When I saw a dog which had been knocked down by a car.,fear,0.6081453561782837,False
+anger,"It was when I discovered that my boyfriend had another girl. I  
+discovered it through a letter he wrote to the girl when he was  
+away. When I asked him he accepted it.",joy,0.4518169164657593,False
+anger,"When my boyfriend told me that it would be difficult for him to  
+marry me.",sadness,0.542171835899353,False
+joy,"I was studying in the library and a class-mate told me that she  
+had obtained a grant to work in the library.",joy,0.5589615106582642,True
+disgust,"I was on my way home by bus.  A man who had drunk a fair amount of  
+alcohol started talking, trying to hug and pat a woman sitting  
+next to him.  Fortunately it was not me.",disgust,0.24659059941768646,True
+joy,"Finding out I am chosen to collect norms for Chinese aphasia (I  
+will contribute to China's catching up with the West in  
+neuropsychology).",anger,0.38233721256256104,False
+disgust,"I felt very disgusted at a friend to whom I had given a Psychology  
+book to read, and she did not care to give me back the book  
+during the exams.",disgust,0.4897078275680542,True
+disgust,"During military service I heard the story of someone who tried to  
+commit suicide and as a result of this got a week custody.",sadness,0.47319096326828003,False
+sadness,When I heard that my nephew had passed away.,sadness,0.8883669972419739,True
+disgust,"I once saw an old man up the road, fossicking through the rubbish  
+bins and the gutter. I was really disgusted at first but I've  
+seen him a few times since then and now I feel really sorry for  
+him and I often give him cigarettes when I see him, because he  
+mainly goes after cigarette butts and it is revolting.",disgust,0.7332742810249329,True
+joy,"I am not especially good at English, and after the high school  
+graduation exam in English I tensely waited for the result the  
+whole day.  In the evening, when I heard that I had done  
+excellently, I became very happy and the anxiety vanished.  My  
+family was at home.",joy,0.6988321542739868,True
+disgust,"The day I went to eat dinner in the dinning hall and found a  
+dead fly in my gravy.",sadness,0.30736491084098816,False
+anger,A father helping his kid to fight other kids.,disgust,0.32040339708328247,False
+sadness,"A few months a close relative of mine died.  I had never expected  
+this to happen and was sad for a few months.",sadness,0.9184347987174988,True
+disgust,Reading literature on AIDS/homosexuality.,disgust,0.4036872088909149,True
+anger,"My girlfriend mentioned a certain girl's name who was my girl  
+some time back and she is no longer mine that she said she was  
+still mine.",sadness,0.38312774896621704,False
+disgust,"When a girl said in my back that we were in love, and she had  
+actually refused me.  When I confronted her she started insulting  
+me.",anger,0.4808981716632843,False
+disgust,When my father thought that I was an unrelaible son.,sadness,0.4216555953025818,False
+joy,Renewed contact with an earlier friend.,joy,0.7308717966079712,True
+sadness,"My dog, whom I had had for eleven years, died. I watched his  
+soporification.",sadness,0.8367837071418762,True
+joy,When I got a wedding ring of diamond from the boy I loved.,joy,0.9436368346214294,True
+joy,Finally being asked by someone to a banquet.,joy,0.5560004115104675,True
+disgust,"A girl who also hires a room in the house where I live always  
+tries to make a quarrel with everyone available she disgusts me.",disgust,0.7639261484146118,True
+fear,"While watching TV (a war movie), I felt a strong fear of death,  
+threat and fear of loosing people close to me.",fear,0.8340500593185425,True
+anger,"Someone signed up for a workshift at the co-op where I live and  
+she did not want to work the switchboard. I became very angry.  
+She had mentioned earlier that she wanted and needed the  
+workshift to me so I did not sign up.",anger,0.3453715443611145,True
+disgust,When I discovered that my mother had been involved in adultery.,sadness,0.4327136278152466,False
+sadness,"Death of paternal grandmother to whom I was very close - died of  
+cancer.",sadness,0.8665226101875305,True
+anger,"When I heard that my step-mother had treated my mother in a wrong  
+manner.",disgust,0.46795782446861267,False
+anger,"I faced this feeling when I realized I wasn't admitted to the  
+institute in the first classifying, in spite of the high mark I  
+had got at the entrance examination.",sadness,0.40240478515625,False
+disgust,"I am disgusted with a nieghbour who is looking for all sorts of  
+quarrel with my parents and me. He feels we are hampering his  
+living close to us. This has been going on for quite a long time.",disgust,0.6054895520210266,True
+disgust,"When I, for the first time, failed a junior exam, i.e form 3.",surprise,0.2807602286338806,False
+fear,"I was watching a movie alone - it was a horror movie. The music  
+was a deep pulsing type - not really music. And a light flashed  
+on and off. It was in the complete darkness of a movie theatre  
+that was almost empty.",fear,0.6477606296539307,True
+sadness,"My sister lost one of her twin sons (my first nephews) and then  
+the older one died a week later.",sadness,0.9038215279579163,True
+disgust,"I read a story in the newspaper about butchers treating their  
+animals very badly. They disgusted me.",disgust,0.6898917555809021,True
+joy,"Winning a race that I had been training for, for many weeks.  
+(Running Race).",joy,0.8062178492546082,True
+fear,"When I nearly drowned in icy water wearing ice skates.  It was  
+difficult to get out.",fear,0.6007558703422546,True
+fear,"In a flat in Sydney - rough area at home on my own - the flat had  
+been burgled the night before and no way of locking the door.",fear,0.5462331771850586,True
+sadness,When I left my part-time job.,sadness,0.6642404794692993,True
+anger,Receiving personal criticisms early in the morning.,sadness,0.3214821517467499,False
+joy,"I felt very happy when I heard I had passed the examination to  
+move up to the second year course.",joy,0.9476664662361145,True
+disgust,Someone acting stupid in public.,disgust,0.7432048916816711,True
+anger,I locked myself out.,sadness,0.5012217164039612,False
+disgust,"At an unworthy behaviour of a man, pettiness, stupidity and  
+mostly at a philistinism.",disgust,0.8460136651992798,True
+anger,"When I found out that the guy I was dating at a particular time  
+had a steady relationship going on with someone else for a long  
+time.",sadness,0.4252924919128418,False
+fear,"We were driving at night and I realized that a car was following  
+us.",fear,0.6854225993156433,True
+fear,"We were driving a car of a friend of mine when we turned in the  
+wrong direction towards an unknown district, and nearly drove  
+down a precipice.",fear,0.7343016266822815,True
+anger,"A co-worker and I had to rush a project. I was only working there  
+for one month and he for some years. Instead of letting me know  
+that he wanted to do the project himself, he went to the  
+superviser and let the superviser tell me to let the co-worker do  
+it himself since he was quicker at it.",anger,0.33787328004837036,True
+sadness,My uncle died - I felt sad at the funeral.,sadness,0.9328152537345886,True
+sadness,"A friend of mine was hospitalized after having been diagnosed as  
+having typhoid, he had to forgo his exams and also his ambition  
+of doing a dissertation at the M.A level.  It was a very sad  
+event for me and I felt very sorry for him so I volunteered to  
+stay with him in the hospital.",sadness,0.9015573263168335,True
+sadness,When I left a man in whom I really believed.,sadness,0.5357760190963745,True
+joy,A party with friends on New Year's Eve.,joy,0.8978970646858215,True
+anger,"My mother was ill and asked me to prpare our lunch. I went to do it,  
+and while I was working, she stayed behind me telling what I  
+had, or not to do. I asked her to stop meddling, and to go to  
+bed. When I went to ask for help to my sister, my mother said that  
+I was proud, that I asked for help only when I wanted and that I  
+wasn't able to cook by myself.",sadness,0.7308849096298218,False
+disgust,"When I went home by train from Sicilia, I was molested by a man.",disgust,0.4927723705768585,True
+disgust,"During the PY 102 film session on Tuesday, one of the films shown   
+was of an experiment on a live cat involving strapping it into a  
+machine for possibly days, and doing things to its brain.",disgust,0.34685948491096497,True
+disgust,"I felt this situation when a certain woman from a close village  
+shouted at my mother because she didn't get what she wanted, she  
+wanted some salt to put in her relish.",disgust,0.39102569222450256,True
+fear,Being threatened by another person.,fear,0.8512573838233948,True
+joy,When I won a tennis match.,joy,0.8645902276039124,True
+joy,"At a party in which I met an interesting female. We enjoyed  
+eachothers company, while slow dacing.",joy,0.9129188656806946,True
+fear,"When I am out in the dark and a suspicious looking character  
+comes towards me.",fear,0.7870796322822571,True
+joy,"I started a new branch of studies after having failed a former  
+one.  When I got back my exam papers I was very happy to know  
+that I almost had full marks.",joy,0.9352922439575195,True
+disgust,"On a camp - boys and girls in one cabin. One guy forced himself  
+upon another girl and was having intercourse, while the girl in  
+the bunk beneath was pretending to be asleep and not be ill.",disgust,0.6823660135269165,True
+joy,"My son was registered to get admission in grade one of the          
+primary school.  The chances of him getting a place there was 1/10.   
+Two weeks later I was informed that he had been enrolled.",joy,0.38427814841270447,True
+fear,"Being alone in Europe and having to catch a train and bus to the  
+airport, then board the plane alone.",sadness,0.4843398332595825,False
+fear,"Once as a child I dreamed of a fire. Since that time I hadn't  
+wanted to sleep in that bed and had feared the night darkness  
+(and so it is now).",fear,0.6868180632591248,True
+joy,"I passed an exam which I was not sure at all to pass.  I rejoyced  
+at the result because the possibility of continuing my studies  
+depended on it.",joy,0.8176118731498718,True
+disgust,"When my younger sister visited me during the school holidays and  
+told me that she would not go back to school because she was  
+pregnant.",sadness,0.76655513048172,False
+fear,"I was to meet one of my friends (girl) at the library at 8:00  
+already dark. She would be walking alone. She was 45 minutes late  
+but I kept waiting, calling her room and other places she could  
+have been.",sadness,0.2889203131198883,False
+sadness,"When the train taking me to my military service left the station,  
+on the platform remained relatives, projects and goodtimes.  I  
+had a hard year ahead.",sadness,0.9039711356163025,True
+joy,"When the whole family gets together for a one week holiday.   
+Everybody feels free and the trip is well planned.  It works out  
+well and we enjoy ourselves.",joy,0.9677414298057556,True
+sadness,"Recently, my sister-in-law's horse was poisoned by a plant and  
+died. The horse was very obedient and exceptional with children.",sadness,0.48818376660346985,True
+anger,"I wanted to clear up a misunderstanding with a friend that I had  
+caused. A third person meddled in our conversation, turned my  
+efforts to ridicule so that I did not succeed in what I had  
+intended.",anger,0.5040385723114014,True
+disgust,"Observing someone in the cafeteria noisily gulping in his food,  
+having extremely bad manners.",disgust,0.7979673743247986,True
+fear,"As a child - stepping on a rusty nail - being told that I might  
+get tetanus.",sadness,0.32336488366127014,False
+disgust,Slaughtering of animals.,disgust,0.7292584180831909,True
+joy,"I was told quite unexpectedly that one wanted me to become the  
+vice-chairman of our student organisation.  I was really  
+surprised and joy was the first emotion I felt, though behind it  
+there was worry - how shall I succeed ?",fear,0.45718491077423096,False
+disgust,"When we complained about the uncleanliness of the work place, the  
+authorities agreed to have the place cleaned.  Even after 2-3  
+days nothing had been done.  I felt disgusted at the whole  
+situation.",disgust,0.6095016002655029,True
+anger,When my mother quarrelled with my aunt over me.,anger,0.38633424043655396,True
+fear,"I was in the Korean War. We were attacked with mortars, me and  
+companion. We stopped the jeep and ran for cover. Fortunately  
+neither of us was hit but we both came close to being killed.",fear,0.791533887386322,True
+fear,"I was testing my new roller skates in the street, suddenly a dog  
+ran barking in my direction, very threatening. I was very  
+startled and terribly upset.",fear,0.8394103646278381,True
+sadness,"I felt sad when my first boyfriend and I left each other. It was neither  
+his fault nor mine.",sadness,0.9237080216407776,True
+joy,"Eating biscuits and drinking Milo (Chocolate energy drink made  
+with milk and usually drunk warm) with my friend at College. We  
+get on really well, don't withold any feelings about each other's  
+friends and are pretty good at cheering each other up when we are  
+homesick.",joy,0.9352242350578308,True
+anger,When I failed my S.S.C exam.,sadness,0.5434664487838745,False
+fear,When I had to talk with an important person about a job.,anger,0.4037729799747467,False
+joy,I got a fairly large amount of my taxes back.,joy,0.8198686838150024,True
+disgust,"When I failed the entrance exam of the medical school and was  
+studying biochemistry which has no job prospects in Zambia.",sadness,0.6377390027046204,False
+disgust,The lift of Stockholm central station stank of vomit and urine.,disgust,0.7869777679443359,True
+disgust,"When walking along the beach with my boyfriend, we saw 2 people  
+having sex on the sand dunes in full view of everyone. It was the  
+fact that they chose that area in which to have sex, that  
+disgusted me.",disgust,0.7320743203163147,True
+sadness,My grandmother died.,sadness,0.9270024299621582,True
+fear,When I was chased by a big dog near my house.,fear,0.7543615698814392,True
+anger,"I worked with several classmates on a project.  I was very  
+anxious about the project while my partners showed no concern   
+and when we had meetings on the project my classmates  did not  
+pay any attention.  Some of them read books while the others  
+argued on irrelevant questions.  The meeting would go on for two  
+hours without the main theme being discussed.  We wasted time and  
+could not reach a compromise.  My classmates avoided doing the  
+work and the responsibilities, they seemed to value other  
+projects more than this one.",sadness,0.5225818753242493,False
+fear,"I was walking in the wood at night with my boyfriend. Very  
+romantic. Suddenly I heard a car driving very slowly with the  
+lights out, it looked as if they were looking for something.",joy,0.5057571530342102,False
+disgust,"I felt disgust when I saw a drunkard vomiting very offensive  
+matter.",disgust,0.811271071434021,True
+fear,"Birds had made nests in our thatched roof and they were flying  
+and flapping their wings in the bedroom at night.  It was very  
+dark and I could not even see my nose.  I did not know that it  
+was the birds till my mother told me so.",fear,0.245798721909523,True
+fear,"My friend and I planned to search for old documents and utensils  
+in the cellar. It was very late at night when we arrived in the  
+cellar. He indicated the place where the police (40 years ago) found  
+two dead bodies. I got very scared when he told me this story.",fear,0.7592417001724243,True
+joy,"I had just moved to the town where I study and I got a postcard  
+from a good friend (from my home town).",joy,0.7865804433822632,True
+fear,"Tutorial again !  A fearful feeling came to me when I sat on the  
+chair and looked at my fellow students all around.  I was really  
+scared that they would ask me some questions or challenge the  
+ideas that I had presented.",fear,0.8330590724945068,True
+disgust,"When my elder brother failed form five in 1968 when I was 5 years  
+old.",sadness,0.7325359582901001,False
+disgust,"I felt disgust when I realized that I had eaten something fatty,  
+and vomited too much.",sadness,0.4342496991157532,False
+fear,"Once our school class went skiing. On a steep slope a boy  
+standing behind me lost his balance, fell down and drew me with  
+him. I slided down the whole slope. At about 1 m distance from a  
+tree I could stop.",fear,0.6066960692405701,True
+disgust,"When I failed to secure employment after my form 5 in Lusaka despite  
+my excellent certificate.",sadness,0.6841999888420105,False
+sadness,"When we decided, my boyfriend and I, that we would separate, I  
+realized that he would have wanted to continue our relationship  
+and the coming separation hurt him.",sadness,0.8482787013053894,True
+fear,"When I missed crashing, by a hair's breadth, into a man who came  
+out 20 metres ahead of me when I was driving at 110km/h.",fear,0.6076732277870178,True
+sadness,"When I feel helpless after having tried to help someone without  
+any result.",sadness,0.8038610219955444,True
+fear,"I was driving very fast on a small road and I met an oncoming car  
+in a right handed bend.  The other driver was on his own side of  
+the road and I had to skid out of it to avoid a collision.  It  
+was dark.",fear,0.7812424302101135,True
+anger,"I experienced anger most recently when I had committed a sin  
+which I had gone a week and a half without doing. I had made a  
+vow to God and had blown it. Now I had to start all over.",sadness,0.4502245783805847,False
+joy,"When they told me that I had been admitted to the faculty of  
+medicine.",joy,0.347610205411911,True
+fear,Before the examn.,anger,0.3322106897830963,False
+anger,"When I tried to breake it up with my boyfriend, and he refused to  
+let me go.",sadness,0.404326468706131,False
+anger,"When my father talks about our relatives and favours them, I feel  
+angry.",sadness,0.4430904686450958,False
+sadness,"When I realized that I was in hospital after a car accident and  
+that I had a scleral tear in my left eye.",sadness,0.7104871273040771,True
+anger,"When I learnt that my younger sister had been expelled from  
+secondary school because she was pregnant.  That was the second  
+time that this happened in the family - the first time it had  
+been my elder sister.",sadness,0.33822137117385864,False
+disgust,"Disgust - no. Maybe it is more precise to say revultion at a worm  
+or a snake. But I mean it in a social aspect when somebody had  
+behaved like a scoundrel to you, when by his actions he has made  
+you change your attitude towards him but I thing this feeling the  
+way I meant it, is not typical for the people interrelations.",disgust,0.7243420481681824,True
+disgust,"In May somebody blamed me that I made him to be caught while  
+peeping during the Nursing Test which made me feel disgusted.",disgust,0.3912213146686554,True
+joy,When my wife gave birth to a baby boy - my only son to date.,joy,0.4488126337528229,True
+anger,"I had an implicit agreement with my sister about meeting her,  
+however she had not understood the situation the same way so she  
+did not turn up.",sadness,0.46046334505081177,False
+disgust,"I was disgusted when my brother was arrested because of stealing  
+money.",disgust,0.5699194669723511,True
+sadness,"Summer, heavy rain, storm - I was standing with my face stick to  
+the window: the childhood, something was going away forever this  
+summer, I was leaving my home, I was going to study in another  
+town, for the first time I was leaving my parents, friends, I had  
+to manage myself, a long and loved period of my life was over - I  
+was crying.",sadness,0.885979950428009,True
+anger,"Sometime back another girl who was in terms with my ex-boyfriend  
+came to shout at me at twelve midnight. It was because she  
+thought I was still interested in the boy.",anger,0.33357423543930054,True
+sadness,"One of my class-mates had a disease unexpectedly, he had been in  
+a coma for six days in a hospital before he died.",sadness,0.7533985376358032,True
+fear,"My daughter was 2 yrs she went up to a colt tried to hit it. It  
+turned on her and kicked her over the heart, sent her flying  
+through the air. I left my mother and sister to deal to her as  
+they are nurses. I felt I didn't want to know if she was going to  
+die, it was just too much.",fear,0.5102096199989319,True
+joy,"When I got to know that I had passed the university entrance  
+exam.  I thought that I had done one of the exams badly.",sadness,0.3977063298225403,False
+disgust,"When I was a young teenager (14)  my brother-in-law to be had  
+made heavy advances to me.  I did not understand very well what  
+it was all about but I reacted strongly and the feelings are  
+still there.",sadness,0.3887379467487335,False
+sadness,"My father resigned from work, and soon after this his elder brother  
+died.  The next day my granny died (my mother's mother).  My dad  
+remains the only living member of his family.",sadness,0.8899656534194946,True
+joy,"When I was accepted into the medical school.  Medicine is a  
+profession that I have desired ever since my childhood.",joy,0.5786600708961487,True
+sadness,When my father was ill.,sadness,0.8594806790351868,True
+joy,I won a sport contest.,joy,0.9316295981407166,True
+disgust,"I was listening to a priest in church saying how sinful man was,  
+and how all men should renounce their desires and pleasures to  
+please God. I could never understand how something that brings you  
+joy could be a sin.",disgust,0.5935503840446472,True
+sadness,"The saddest moment in my life was when I lost my younger sister a  
+few years back.",sadness,0.9220605492591858,True
+sadness,"My little cat which I had raised all by myself, hanged itself when  
+playing in the garden.",disgust,0.35135796666145325,False
+sadness,"I was selected to do a rest for a foreign ballet but I did not  
+have the money to do it.",sadness,0.7837045192718506,True
+fear,"I was walking with another person when a ""gang"" separted us and  
+pushed me in to a house, hit me in the stomach and the face, then  
+they left - leaving me bleeding.",fear,0.7189903259277344,True
+joy,"After watching the 49ers lose game after game, year after year, I  
+was finally rewarded with a Super Bowl victory which made me  
+extremely happy.",joy,0.9523420929908752,True
+sadness,I saw a lot of starving people in a T.V news report.,fear,0.4643510580062866,False
+disgust,"I went to a restaurant with my boyfriend for dinner. There we saw  
+a couple. the man of the couple was a negro and he hadn't manners  
+for eat.",disgust,0.5910601615905762,True
+anger,"A shop in Downtown wouldn't accept my Visa Card - before December  
+last year.",sadness,0.28689858317375183,False
+sadness,My mother's death.,sadness,0.8755342364311218,True
+disgust,"When a girl I knew aborted and threw the seven month foetus in a  
+man-hole.",disgust,0.6656806468963623,True
+joy,"I found a human ""treasure"" that I desired and got immediately. I  
+didn't think about anything. When I touched him I imploded but I  
+am whole.",joy,0.7823723554611206,True
+disgust,"I stormed into the room, hoping to cool myself with some soft  
+music from my three band radio cassette.  There was only young  
+Kaley there and he explained, "" Your aunt has sold it as she  
+wanted to buy clothes.""",anger,0.4363144636154175,False
+fear,"I was skiing with friends and they wanted to ski-jump. I did not  
+want to be left behind, so I braced myself and followed them.",fear,0.4809960722923279,True
+anger,"I work for a journal. Once the lay-out came to nothing, due to  
+thoughtlessness of some colleagues.",sadness,0.7656232714653015,False
+disgust,"On school, during a fancy fair, there was a stand of amnesty  
+international. There I read (for the first time) a description of  
+the tortures of a woman, what they did to her.",joy,0.5534473657608032,False
+sadness,Misunderstood deliberately by a close friend.,disgust,0.49093204736709595,False
+joy,"When I received a letter from the university telling me that my  
+application had been accepted.",joy,0.4936402142047882,True
+joy,"I had gone camping with my old classmates and there was a storm.   
+We were in a flurry but at that time I felt the love and concern  
+of my friends.",sadness,0.5655539035797119,False
+disgust,When I was getting so fat.,sadness,0.5627322196960449,False
+disgust,Saw a man dressed as a woman.,surprise,0.5479742288589478,False
+fear,When I dreamed that I was being attacked by a friend.,fear,0.7585152387619019,True
+disgust,"When I went to report a stolen good at the police station, the  
+woman-officer-in-charge was very rude and did not seem to have  
+respect for anyone.",disgust,0.7551878094673157,True
+fear,"When I went home and there was nobody, I waited till 2 A.M and       
+still nobody.  I was suddenly scared and anxious as this had never  
+happened before.  In addition my mother was very weak and I  
+feared that she had met with an accident.  Therefore I was anxious   
+all night.",fear,0.7628699541091919,True
+fear,"Attempted rape by 5 guys - held my arms behind my back and  
+molested me, constantly threatening to beat me. Penetration did  
+not occur as the driver of the car stopped that.",disgust,0.5634072422981262,False
+fear,"I am a kindergarten teacher and I am thoroughly weary of my job.   
+After having taken the university entrance exam I suffered from  
+anxiety for weeks as I did not want to carry on with my work - studies  
+were the only alternative.",sadness,0.8002822399139404,False
+sadness,"When I went to see the dead body of my uncle.  This was a very  
+dramatic expreience as it was the first time that I entered a  
+mortuary.",surprise,0.35980626940727234,False
+joy,Having received an offer to do post-graduate work.,joy,0.4137921631336212,True
+sadness,"When I heard of the death of a friend who had just finished her  
+training I felt very sad for she was young.",sadness,0.9159657955169678,True
+anger,"A quarrel with my mother because I thought she said very  
+unreasonable things about me, that hit me strongly.",disgust,0.3667682707309723,False
+anger,When I got low marks in B.Sc final.,sadness,0.6993834376335144,False
+sadness,At my grandfather's death.,sadness,0.7834628224372864,True
+anger,"A certain man went to my parents and told them that I was married  
+here, when I am here at school. When I went home for holidays my  
+parents asked me about it and I was angry with that man.",anger,0.3456484079360962,True
+sadness,"I put in two years of hard work and it was neither looked at nor  
+appreciated.",sadness,0.7435802817344666,True
+fear,"I wandered by mistake into the safety zone of a shooting range,  
+and was shot at.",fear,0.7529860734939575,True
+anger,When my girlfriend of two years told me it was all over.,sadness,0.8361589908599854,False
+joy,"On my birthday a friend came to see me unexpectedly and brought  
+me flowers. I usually do not see her very often.",sadness,0.7664795517921448,False
+anger,"One day I was really angry when all my food was eaten by a dog.  
+My anger was against my mother because she was careless. She  
+didn't keep the food in a hidden and proper place.",disgust,0.4673207700252533,False
+joy,"I thought that I was going to fail a subject and so I began to  
+study for the final exam, then my friend told me that I had  
+passed it.  That meant that I could go home, as I do not study in  
+my hometown.",sadness,0.5288458466529846,False
+joy,When I heard that I had achieved a place in form I.,joy,0.7742277979850769,True
+joy,"When I heard my name being announced on the radio that I had been  
+successful in an interview for admittance for a medical Assistant  
+training course. I was really happy and I enjoyed myself by  
+dancing to music from the Radio cassette.",joy,0.9635571241378784,True
+fear,"I feel fear when I only imagine I could lose confidence in my own  
+abilities and powers. A similar feeling I feel sometimes before  
+an exam.",fear,0.6966999769210815,True
+joy,Watching China winning the Asian Olympic games.,joy,0.7531042098999023,True
+disgust,When a dog is left whining outside a shop.,disgust,0.6191480755805969,True
+fear,"Being involved in a car accident and having my thumb caught in  
+the glove compartment. My sister and I had a Fear of finally  
+telling my parents, since my sister was the driver.",fear,0.7739598751068115,True
+disgust,I greeted a friend and he did not respond.,sadness,0.5975872874259949,False
+fear,"I had this experience of fear when few people were fighting at a  
+social one night, which one of my relative was involved. My fear  
+was greatly for him because he was being assaulted badly.",fear,0.8261856436729431,True
+fear,"I was walking down a little village at night.  There was nobody  
+in the steet.  A dog began to bark, I felt that it was following  
+me.  Then I began to run, the other dogs started barking too.  At  
+last I arrived home.",sadness,0.29955771565437317,False
+sadness,"When I heard about the death of somebody I liked very much and I  
+was not present either to see the person or to try to share my  
+emotions with other friends.",sadness,0.8520678281784058,True
+fear,Left alone in the dark in a big building.,fear,0.3879207670688629,True
+disgust,Saw a selfish person doing a selfish thing.,disgust,0.6656183004379272,True
+sadness,"I could not meet my love, after having waited for a month, due to  
+illness.",sadness,0.8824658393859863,True
+disgust,"I felt disgust as a result of one of my midterms - I thought I  
+had prepared well for it, but the end result wasn't what I had  
+expected.",sadness,0.61305171251297,False
+joy,The day I heard that I passed the high school exam.,sadness,0.3741723597049713,False
+fear,"When I was 8 years old my tonsils had to be operated on. This is  
+not a complicated operation, but just before it started I was  
+very afraid so that I will never forget it.",fear,0.6750829219818115,True
+disgust,When my husband quarrelled with me for no reason at all.,anger,0.560297429561615,False
+fear,"I was driving my car and it was very misty. It was in the night  
+and I was alone in my car. I felt totally insecure, nervous and  
+overstrained.",fear,0.5162283182144165,True
+sadness,"When I learnt that a boy I liked had been with a girl for three  
+years.",joy,0.568111002445221,False
+fear,I was bitten by a dog.,fear,0.6775922179222107,True
+disgust,"When I study my butt off for a midterm and still get an average  
+grade.",anger,0.5396949648857117,False
+anger,"A friend of mine had promised to arrange me some tickets for a  
+concert which I considered important.  He could not get them the  
+way he thought he would, so he gave up the whole thing.",sadness,0.540228009223938,False
+sadness,"My examination results were not satisfactory even though I had  
+tried my best.  Then I started wondering about my abilities for  
+the major subject.  However I did not know how to choose my major  
+subject if I were to change it.",sadness,0.6040099263191223,True
+joy,When I can see my parents because now I am far from them.,sadness,0.5849363803863525,False
+disgust,"I found out accidentaly that while my uncle was away in Canada, my  
+aunt had been bedding a young man on a regular basis.",surprise,0.44070443511009216,False
+joy,"When I saw my brother in Church, and publically accept Jesus  
+Christ as his saviour and Lord.",joy,0.5642518997192383,True
+disgust,"They asked me to throw the rubbish into a dustbin which had some  
+awful liquid accumulated at the bottom.",disgust,0.7858459949493408,True
+anger,"I felt anger of a friend when she met ""a date"" and become nervous  
+and pest as she always gets when she meets him.",disgust,0.37346675992012024,False
+sadness,To say goodbye to dear friends after the holidays.,sadness,0.8442975878715515,True
+disgust,"In a study group, a person always liked to argue on some  
+unimportant, irrelevant and minor points.  He tried to persuade     
+others in an unfriendly way.  He was obstinate and would not accept   
+other's point of view.",disgust,0.7359499931335449,True
+anger,"Teenage neighbours smashed my letterbox for the fifth time in a  
+couple of months. It was a deliberate action of kids who had  
+stayed in my home, had meals there yet took a dislike to my  
+daughter.",disgust,0.5937829613685608,False
+anger,"I was not given a chance to explain to my close relatives as to  
+why I could not go to visit them when they were ill.  When I did  
+go, they thought that I had been selfish and irresponsible during 
+their illness.",sadness,0.4307710528373718,False
+fear,"I experienced it once when we were on a drive. Our car passed by  
+the one comming from the opposite direction at an incredibly  
+small distance.",surprise,0.35491806268692017,False
+disgust,"In contact with a poor family of northeast it was offered to me a  
+crab to eat at my request. But the fact that this crab was  
+prepared antihygienically and his appearence was also  
+antihygienically it caused me disgust but I ate it anyway.",disgust,0.7820079326629639,True
+anger,"When my brother went out with my new shirt that I adored, and  
+returned it dirty with grease.",disgust,0.4681360125541687,False
+sadness,"During the Christmas holidays, I went to see my parents and  
+stayed with them for two weeks. After two or three days, we had  
+the same conflicts we had had ten years before when I had lived  
+with them. They were glad when I left.",sadness,0.5058048367500305,True
+fear,"I'm afraid of not being able to go to the school I want because  
+of suffering grades.",fear,0.5673093795776367,True
+disgust,"In a bus I fell sick and vomitted in a bag.  The entire situation  
+was disgusting in itself.",disgust,0.7160370945930481,True
+joy,"After a weekend at a seminar I saw my husband again. I hurried  
+home hoping he would be there. We embraced - I enjoyed feeling  
+his body.",joy,0.9280719757080078,True
+joy,"After my final examination at school I was glad that the  
+examination was over and that I had passed it.",joy,0.8744229078292847,True
+sadness,My uncle died in the Vietnam War.,sadness,0.9016949534416199,True
+disgust,"A gathering of a social sports club at which they proceeded to  
+show pornographic videos and then afterwards (when most people  
+had had quite a bit to drink) carried on in a very degrading,  
+unmoral manner - especially females exposing and flaunting  
+themselves with no shame or embarassment.",disgust,0.8500722050666809,True
+anger,"When I was at an official meeting I asked a question to a person.  
+His response was not directed at me but at the chairman.",anger,0.5129585266113281,True
+sadness,"This feeling was quite deep when my friend (girl) died in a car  
+accident.",sadness,0.8331426382064819,True
+fear,"Climbing a mountain to see a view, towards the top we suddenly  
+came across a ledge with a nearly sheer drop on either side,  
+which I had to cross.",fear,0.3967790901660919,True
+anger,"Once, during a performance I did not sing the way I had to.",sadness,0.6628148555755615,False
+anger,When my brother was held up and robbed.,fear,0.7027578949928284,False
+joy,"When I passed the university entrance exam.  I had thus finished  
+with a difficult period of my life and I was about to begin one  
+which I had desired a lot.",sadness,0.4830095171928406,False
+fear,"When I was a kid, I always opened the door to greet my father  
+when he came back from work.  One day it so happened that his  
+hair was scattered due to over-crowding in the train, and when I  
+opened the door as usual I saw something else.  I was so scared  
+that I could not talk.",fear,0.7484453320503235,True
+fear,I am afraid before an exam or colloquium.,fear,0.8168132305145264,True
+fear,"When two hyenas made crying noise on the window of my bedroom at  
+home when I was preparing for my MCE examination during the  
+night.",fear,0.41709184646606445,True
+anger,Insulted by some stupid people.,disgust,0.7949910759925842,False
+anger,When my bosom friend tried to lie to me.,sadness,0.36953040957450867,False
+fear,"I asked someone to bring some present to my father and found out  
+that he is not a reliable person. I was afraid if my father would  
+not get the presents he would be angry with me.",fear,0.4969600439071655,True
+sadness,When I heard my sister got in a bad car accident.,sadness,0.7424327731132507,True
+fear,"The same fact about the girl (22 years, married - guilt -  
+disgust), the fear was the main factor in our relationship.",fear,0.5548201203346252,True
+joy,When I got through the first day here at the department.,sadness,0.3258853256702423,False
+disgust,"The male friend of my mother (a widow) moved in to live with us.   
+I did not like the man.",disgust,0.4624422490596771,True
+anger,"As a child - about 8 years old - walking across a paddock - being  
+set upon by another boy who claimed it was ""his land"" - being  
+intimidated by the boy - crying, being punched, etc.",disgust,0.41510137915611267,False
+joy,"I won a car in a prize-competition. The moment I was informed  
+about it, I felt joy.",joy,0.9496975541114807,True
+sadness,"My parents do not like my friend and told me not to go out with  
+him.",anger,0.32111668586730957,False
+fear,"I have done the teachers training course (B.Ed).  During our  
+training I was asked to handle the ninth standard class in a boys  
+school.  I was scared to face the class the first day.",fear,0.7497441172599792,True
+sadness,I had drunk a couple of beers and my fiancee got angry at me.,sadness,0.6437988877296448,True
+fear,"Car accident nearly occurred between us and drunk driver coming  
+in opposite direction it missed us by approx 1 m and collided  
+(after rolling twice midair) into nearby scrub.",fear,0.7210401296615601,True
+joy,Got in touch with earlier friends after a long absence.,joy,0.508697509765625,True
+sadness,I lost my purse that had money in it. I was sad until I found it.,sadness,0.9225276708602905,True
+disgust,"When my uncle comes (3 times a year) for the traditional  
+Christmas dinner with my grandparents and other relatives and is  
+very drunk.",disgust,0.5256295204162598,True
+fear,"When I stayed alone in a house in Great Brittain and there was a  
+lot of rumour in the newspaper about a murderer still being free.",fear,0.5068891048431396,True
+joy,"My 21st birthday celebration, when I cut the cake and received  
+the presents.",joy,0.9271214604377747,True
+sadness,"When I was 9 years old, I got a cat, but after 3 days he died. I  
+was very sad, because I had nursed him and taken him to the  
+veterinary's - but in vain. Although I had had him only for a  
+short time I had liked him very much.",sadness,0.7867254614830017,True
+fear,"Thinking that I had been seen smoking at school by a teacher -  
+waiting to be summoned to the headmaster's office.",surprise,0.44953495264053345,False
+fear,"During a football game I made an offence towards an acquaintance.  
+Later on this acquaintance also tackeled me and the game became  
+very rude.",disgust,0.6986594796180725,False
+disgust,"I detested my father who was a drunkard.  He would rave,  
+threaten and blame my mother and me.  He finally drove us away  
+from home.",disgust,0.7197697758674622,True
+joy,"I have a boyfriend and I am very fond of him. When we had our  
+""11-months jubilee"", I had forgotten it. But he gave me a red  
+rose.",joy,0.9217872619628906,True

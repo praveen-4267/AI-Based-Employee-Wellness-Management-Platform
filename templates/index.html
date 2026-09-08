@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>AI Employee Wellness Management</title>
+
+    <style>
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f1f5f9;
+            color: #1e293b;
+        }
+
+        .header {
+            background: #1e3a8a;
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+
+        .header h1 {
+            margin: 0;
+            font-size: 30px;
+        }
+
+        .header p {
+            margin: 8px 0 0;
+            font-size: 16px;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 1100px;
+            margin: 35px auto;
+        }
+
+        .card {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+            margin-bottom: 25px;
+        }
+
+        h2 {
+            color: #1e3a8a;
+            margin-top: 0;
+        }
+
+        textarea {
+            width: 100%;
+            height: 150px;
+            padding: 15px;
+            border: 1px solid #cbd5e1;
+            border-radius: 10px;
+            font-size: 16px;
+            resize: vertical;
+        }
+
+        .controls {
+            margin-top: 15px;
+        }
+
+        select {
+            padding: 10px 15px;
+            border: 1px solid #cbd5e1;
+            border-radius: 8px;
+            font-size: 15px;
+        }
+
+        button {
+            margin-top: 20px;
+            padding: 13px 28px;
+            background: #2563eb;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background: #1d4ed8;
+        }
+
+        .results {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+        }
+
+        .result-box {
+            background: #f8fafc;
+            padding: 25px;
+            border-radius: 12px;
+            text-align: center;
+        }
+
+        .result-box h3 {
+            margin-top: 0;
+            color: #475569;
+        }
+
+        .result-value {
+            font-size: 25px;
+            font-weight: bold;
+            color: #2563eb;
+        }
+
+        .processed-text {
+            background: #f8fafc;
+            padding: 15px;
+            border-radius: 8px;
+            font-family: monospace;
+            word-wrap: break-word;
+        }
+
+        .emotion-row {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            margin: 14px 0;
+        }
+
+        .emotion-name {
+            width: 100px;
+            font-weight: bold;
+        }
+
+        .bar-container {
+            flex: 1;
+            height: 18px;
+            background: #e2e8f0;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+
+        .bar {
+            height: 100%;
+            background: #2563eb;
+            border-radius: 10px;
+        }
+
+        .percentage {
+            width: 70px;
+            text-align: right;
+            font-weight: bold;
+        }
+
+        .emotion-tags {
+            margin-top: 15px;
+        }
+
+        .tag {
+            display: inline-block;
+            background: #dbeafe;
+            color: #1e40af;
+            padding: 9px 16px;
+            margin: 5px;
+            border-radius: 20px;
+            font-weight: bold;
+        }
+
+        .error {
+            background: #fee2e2;
+            color: #991b1b;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 25px;
+        }
+
+        .info {
+            background: #eff6ff;
+            padding: 15px;
+            border-radius: 8px;
+        }
+
+        @media(max-width: 750px) {
+
+            .results {
+                grid-template-columns: 1fr;
+            }
+
+            .container {
+                width: 94%;
+            }
+
+        }
+
+    </style>
+
+</head>
+
+
+<body>
+
+
+<div class="header">
+
+    <h1>AI Based Employee Wellness Management Platform</h1>
+
+    <p>AI-powered Employee Feedback Analysis</p>
+
+</div>
+
+
+<div class="container">
+
+
+    <!-- INPUT SECTION -->
+
+    <div class="card">
+
+        <h2>Employee Feedback</h2>
+
+        <p>
+            Enter employee feedback below to analyze
+            sentiment and emotions.
+        </p>
+
+
+        <form method="POST">
+
+            <textarea
+                name="feedback"
+                placeholder="Example: I am happy with my team but nervous about the upcoming deadline..."
+                required
+            >{{ feedback }}</textarea>
+
+
+            <div class="controls">
+
+                <label>
+                    <strong>Emotion Model:</strong>
+                </label>
+
+                <select name="model">
+
+                    <option value="bert"
+                        {% if request.form.get('model', 'bert') == 'bert' %}
+                        selected
+                        {% endif %}
+                    >
+                        BERT
+                    </option>
+
+                    <option value="distilbert"
+                        {% if request.form.get('model') == 'distilbert' %}
+                        selected
+                        {% endif %}
+                    >
+                        DistilBERT
+                    </option>
+
+                </select>
+
+            </div>
+
+
+            <button type="submit">
+                Analyze Feedback
+            </button>
+
+        </form>
+
+    </div>
+
+
+    <!-- ERROR -->
+
+    {% if error %}
+
+    <div class="error">
+
+        <strong>Analysis Error:</strong>
+
+        {{ error }}
+
+    </div>
+
+    {% endif %}
+
+
+    <!-- RESULTS -->
+
+    {% if result %}
+
+
+    <!-- MAIN RESULTS -->
+
+    <div class="card">
+
+        <h2>Analysis Results</h2>
+
+
+        <div class="results">
+
+
+            <div class="result-box">
+
+                <h3>Overall Sentiment</h3>
+
+                <div class="result-value">
+
+                    {{ result.sentiment.sentiment }}
+
+                </div>
+
+            </div>
+
+
+            <div class="result-box">
+
+                <h3>Primary Emotion</h3>
+
+                <div class="result-value">
+
+                    {{ result.primary_emotion | title }}
+
+                </div>
+
+            </div>
+
+
+            <div class="result-box">
+
+                <h3>Confidence</h3>
+
+                <div class="result-value">
+
+                    {{ "%.2f"|format(result.primary_confidence * 100) }}%
+
+                </div>
+
+            </div>
+
+
+        </div>
+
+    </div>
+
+
+    <!-- PROCESSED TEXT -->
+
+    <div class="card">
+
+        <h2>Processed Text</h2>
+
+        <div class="processed-text">
+
+            {{ result.processed_text }}
+
+        </div>
+
+    </div>
+
+
+    <!-- SENTIMENT DETAILS -->
+
+    <div class="card">
+
+        <h2>VADER Sentiment Details</h2>
+
+
+        <div class="results">
+
+
+            <div class="result-box">
+
+                <h3>Positive</h3>
+
+                <div class="result-value">
+
+                    {{ "%.2f"|format(result.sentiment.positive * 100) }}%
+
+                </div>
+
+            </div>
+
+
+            <div class="result-box">
+
+                <h3>Negative</h3>
+
+                <div class="result-value">
+
+                    {{ "%.2f"|format(result.sentiment.negative * 100) }}%
+
+                </div>
+
+            </div>
+
+
+            <div class="result-box">
+
+                <h3>Compound</h3>
+
+                <div class="result-value">
+
+                    {{ result.sentiment.compound }}
+
+                </div>
+
+            </div>
+
+
+        </div>
+
+    </div>
+
+
+    <!-- SINGLE LABEL EMOTION -->
+
+    <div class="card">
+
+        <h2>Emotion Probabilities</h2>
+
+        <p>
+            Probability generated by the selected
+            {{ result.model | upper }} model.
+        </p>
+
+
+        {% for emotion, probability in result.emotion_probabilities.items() %}
+
+        <div class="emotion-row">
+
+            <div class="emotion-name">
+
+                {{ emotion | title }}
+
+            </div>
+
+
+            <div class="bar-container">
+
+                <div
+                    class="bar"
+                    style="width: {{ probability * 100 }}%;"
+                ></div>
+
+            </div>
+
+
+            <div class="percentage">
+
+                {{ "%.2f"|format(probability * 100) }}%
+
+            </div>
+
+        </div>
+
+        {% endfor %}
+
+    </div>
+
+
+    <!-- MULTI LABEL -->
+
+    <div class="card">
+
+        <h2>Multi-Label Emotions</h2>
+
+        <p>
+            Emotions detected using the multi-label model.
+        </p>
+
+
+        <div class="emotion-tags">
+
+            {% for emotion in result.multi_label_emotions %}
+
+                <span class="tag">
+
+                    {{ emotion | title }}
+
+                </span>
+
+            {% endfor %}
+
+        </div>
+
+
+        <div class="info">
+
+            <strong>Confidence Threshold:</strong>
+
+            {{ "%.0f"|format(result.confidence_threshold * 100) }}%
+
+        </div>
+
+    </div>
+
+
+    <!-- MODEL INFORMATION -->
+
+    <div class="card">
+
+        <h2>Model Information</h2>
+
+        <p>
+
+            <strong>Selected Model:</strong>
+
+            {{ result.model | upper }}
+
+        </p>
+
+        <p>
+
+            <strong>Primary Emotion:</strong>
+
+            {{ result.primary_emotion | title }}
+
+        </p>
+
+        <p>
+
+            <strong>Primary Confidence:</strong>
+
+            {{ "%.2f"|format(result.primary_confidence * 100) }}%
+
+        </p>
+
+    </div>
+
+
+    {% endif %}
+
+
+</div>
+
+
+</body>
+
+</html>

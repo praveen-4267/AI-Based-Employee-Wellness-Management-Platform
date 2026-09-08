@@ -18,9 +18,14 @@ def validate_text(text):
 
 
 def read_direct_text(text):
-    """Read text entered directly by the user."""
+    """Read and validate text entered directly by the user."""
 
-    return validate_text(text)
+    valid, message = validate_text(text)
+
+    if valid:
+        return True, text
+
+    return False, message
 
 
 def read_txt_file(file_path):
