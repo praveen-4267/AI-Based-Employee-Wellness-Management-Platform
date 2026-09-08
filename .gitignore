@@ -218,6 +218,6 @@ __marimo__/
 .streamlit/secrets.toml
 
 # Trained model weights
-src/models/bert_emotion/
-src/models/distilbert_emotion/
-src/models/multilabel_emotion/
+
+
+src/models/*.zip
